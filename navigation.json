@@ -1,0 +1,55 @@
+{
+   "Navigation": [
+      {
+         "data": "Home"
+      },
+      {
+         "data": "Explore"
+      },
+      {
+         "data": "Tasks"
+      },
+      {
+         "data": "Messages"
+      },
+      {
+         "data": "Plans"
+      },
+      {
+         "data": "Friends"
+      },
+      {
+         "data": "Pictures"
+      },
+      {
+         "data": "Dashboard"
+      },
+      {
+         "data": "Videos"
+      },
+      {
+         "data": "Calendar"
+      },
+      {
+         "data": "Hotels"
+      },
+      {
+         "data": "Restaurants"
+      },
+      {
+         "data": "Activity"
+      },
+      {
+         "data": "Profile"
+      },
+      {
+         "data": "Settings"
+      },
+      {
+         "data": "Activity"
+      },
+      {
+         "data": "Discover"
+      }
+   ]
+}

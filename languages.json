@@ -1,0 +1,433 @@
+{
+   "Languages": [
+      {
+         "data": "Afrikaans"
+      },
+      {
+         "data": "Albanian"
+      },
+      {
+         "data": "Amharic"
+      },
+      {
+         "data": "Arabic"
+      },
+      {
+         "data": "Aramaic"
+      },
+      {
+         "data": "Armenian"
+      },
+      {
+         "data": "Assamese"
+      },
+      {
+         "data": "Aymara"
+      },
+      {
+         "data": "Azerbaijani"
+      },
+      {
+         "data": "Balochi"
+      },
+      {
+         "data": "Bamanankan"
+      },
+      {
+         "data": "Bashkort"
+      },
+      {
+         "data": "Basque"
+      },
+      {
+         "data": "Belarusan"
+      },
+      {
+         "data": "Bengali"
+      },
+      {
+         "data": "Bhojpuri"
+      },
+      {
+         "data": "Bislama"
+      },
+      {
+         "data": "Bosnian"
+      },
+      {
+         "data": "Brahui"
+      },
+      {
+         "data": "Bulgarian"
+      },
+      {
+         "data": "Burmese"
+      },
+      {
+         "data": "Cantonese"
+      },
+      {
+         "data": "Catalan"
+      },
+      {
+         "data": "Cebuano"
+      },
+      {
+         "data": "Chechen"
+      },
+      {
+         "data": "Cherokee"
+      },
+      {
+         "data": "Chinese"
+      },
+      {
+         "data": "Croatian"
+      },
+      {
+         "data": "Czech"
+      },
+      {
+         "data": "Dakota"
+      },
+      {
+         "data": "Danish"
+      },
+      {
+         "data": "Dari"
+      },
+      {
+         "data": "Dholuo"
+      },
+      {
+         "data": "Dutch"
+      },
+      {
+         "data": "English"
+      },
+      {
+         "data": "Esperanto"
+      },
+      {
+         "data": "Estonian"
+      },
+      {
+         "data": "Éwé"
+      },
+      {
+         "data": "Finnish"
+      },
+      {
+         "data": "French"
+      },
+      {
+         "data": "Georgian"
+      },
+      {
+         "data": "German"
+      },
+      {
+         "data": "Gikuyu"
+      },
+      {
+         "data": "Greek"
+      },
+      {
+         "data": "Guarani"
+      },
+      {
+         "data": "Gujarati"
+      },
+      {
+         "data": "Haitian Creole"
+      },
+      {
+         "data": "Hausa"
+      },
+      {
+         "data": "Hawaiian"
+      },
+      {
+         "data": "Hawaiian Creole"
+      },
+      {
+         "data": "Hebrew"
+      },
+      {
+         "data": "Hiligaynon"
+      },
+      {
+         "data": "Hindi"
+      },
+      {
+         "data": "Hungarian"
+      },
+      {
+         "data": "Icelandic"
+      },
+      {
+         "data": "Igbo"
+      },
+      {
+         "data": "Ilocano"
+      },
+      {
+         "data": "Indonesian"
+      },
+      {
+         "data": "Inuit/Inupiaq"
+      },
+      {
+         "data": "Irish Gaelic"
+      },
+      {
+         "data": "Italian"
+      },
+      {
+         "data": "Japanese"
+      },
+      {
+         "data": "Jarai"
+      },
+      {
+         "data": "Javanese"
+      },
+      {
+         "data": "K’iche’"
+      },
+      {
+         "data": "Kabyle"
+      },
+      {
+         "data": "Kannada"
+      },
+      {
+         "data": "Kashmiri"
+      },
+      {
+         "data": "Kazakh"
+      },
+      {
+         "data": "Khmer"
+      },
+      {
+         "data": "Khoekhoe"
+      },
+      {
+         "data": "Korean"
+      },
+      {
+         "data": "Kurdish"
+      },
+      {
+         "data": "Kyrgyz"
+      },
+      {
+         "data": "Lao"
+      },
+      {
+         "data": "Latin"
+      },
+      {
+         "data": "Latvian"
+      },
+      {
+         "data": "Lingala"
+      },
+      {
+         "data": "Lithuanian"
+      },
+      {
+         "data": "Macedonian"
+      },
+      {
+         "data": "Maithili"
+      },
+      {
+         "data": "Malagasy"
+      },
+      {
+         "data": "Malay"
+      },
+      {
+         "data": "Malayalam"
+      },
+      {
+         "data": "Marathi"
+      },
+      {
+         "data": "Mende"
+      },
+      {
+         "data": "Mongolian"
+      },
+      {
+         "data": "Nahuatl"
+      },
+      {
+         "data": "Navajo"
+      },
+      {
+         "data": "Nepali"
+      },
+      {
+         "data": "Norwegian"
+      },
+      {
+         "data": "Ojibwa"
+      },
+      {
+         "data": "Oriya"
+      },
+      {
+         "data": "Oromo"
+      },
+      {
+         "data": "Pashto"
+      },
+      {
+         "data": "Persian"
+      },
+      {
+         "data": "Polish"
+      },
+      {
+         "data": "Portuguese"
+      },
+      {
+         "data": "Punjabi"
+      },
+      {
+         "data": "Quechua"
+      },
+      {
+         "data": "Romani"
+      },
+      {
+         "data": "Romanian"
+      },
+      {
+         "data": "Russian"
+      },
+      {
+         "data": "Rwanda"
+      },
+      {
+         "data": "Samoan"
+      },
+      {
+         "data": "Sanskrit"
+      },
+      {
+         "data": "Serbian"
+      },
+      {
+         "data": "Shona"
+      },
+      {
+         "data": "Sindhi"
+      },
+      {
+         "data": "Sinhala"
+      },
+      {
+         "data": "Slovak"
+      },
+      {
+         "data": "Slovene"
+      },
+      {
+         "data": "Somali"
+      },
+      {
+         "data": "Spanish"
+      },
+      {
+         "data": "Swahili"
+      },
+      {
+         "data": "Swedish"
+      },
+      {
+         "data": "Tachelhit"
+      },
+      {
+         "data": "Tagalog"
+      },
+      {
+         "data": "Tajiki"
+      },
+      {
+         "data": "Tamil"
+      },
+      {
+         "data": "Tatar"
+      },
+      {
+         "data": "Telugu"
+      },
+      {
+         "data": "Thai"
+      },
+      {
+         "data": "Tibetic languages"
+      },
+      {
+         "data": "Tigrigna"
+      },
+      {
+         "data": "Tok Pisin"
+      },
+      {
+         "data": "Turkish"
+      },
+      {
+         "data": "Turkmen"
+      },
+      {
+         "data": "Ukrainian"
+      },
+      {
+         "data": "Urdu"
+      },
+      {
+         "data": "Uyghur"
+      },
+      {
+         "data": "Uzbek"
+      },
+      {
+         "data": "Vietnamese"
+      },
+      {
+         "data": "Warlpiri"
+      },
+      {
+         "data": "Welsh"
+      },
+      {
+         "data": "Wolof"
+      },
+      {
+         "data": "Xhosa"
+      },
+      {
+         "data": "Yakut"
+      },
+      {
+         "data": "Yiddish"
+      },
+      {
+         "data": "Yoruba"
+      },
+      {
+         "data": "Yucatec"
+      },
+      {
+         "data": "Zapotec"
+      },
+      {
+         "data": "Zulu"
+      }
+   ]
+}

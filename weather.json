@@ -1,0 +1,124 @@
+{
+   "Weather": [
+      {
+         "data": "Sunny"
+      },
+      {
+         "data": "Mostly Sunny"
+      },
+      {
+         "data": "Partly Sunny"
+      },
+      {
+         "data": "Intermittent Clouds"
+      },
+      {
+         "data": "Hazy Sunshine"
+      },
+      {
+         "data": "Mostly Cloudy"
+      },
+      {
+         "data": "Cloudy"
+      },
+      {
+         "data": "Dreary"
+      },
+      {
+         "data": "Fog"
+      },
+      {
+         "data": "Showers"
+      },
+      {
+         "data": "Mostly Cloudy with Showers"
+      },
+      {
+         "data": "Partly Sunny with Showers"
+      },
+      {
+         "data": "T-Storms"
+      },
+      {
+         "data": "Mostly Cloudy with T-Storms"
+      },
+      {
+         "data": "Partly Sunny with T-Storms"
+      },
+      {
+         "data": "Rain"
+      },
+      {
+         "data": "Flurries"
+      },
+      {
+         "data": "Mostly Cloudy with Flurries"
+      },
+      {
+         "data": "Partly Sunny with Flurries"
+      },
+      {
+         "data": "Snow"
+      },
+      {
+         "data": "Mostly Cloudy with Snow"
+      },
+      {
+         "data": "Ice"
+      },
+      {
+         "data": "Sleet"
+      },
+      {
+         "data": "Freezing Rain"
+      },
+      {
+         "data": "Rain and Snow"
+      },
+      {
+         "data": "Hot"
+      },
+      {
+         "data": "Cold"
+      },
+      {
+         "data": "Windy"
+      },
+      {
+         "data": "Clear"
+      },
+      {
+         "data": "Mostly Clear"
+      },
+      {
+         "data": "Partly Cloudy"
+      },
+      {
+         "data": "Intermittent Clouds"
+      },
+      {
+         "data": "Hazy Moonlight"
+      },
+      {
+         "data": "Mostly Cloudy"
+      },
+      {
+         "data": "Partly Cloudy with Showers"
+      },
+      {
+         "data": "Mostly Cloudy with Showers"
+      },
+      {
+         "data": "Partly Cloudy with T-Storms"
+      },
+      {
+         "data": "Mostly Cloudy with T-Storms"
+      },
+      {
+         "data": "Mostly Cloudy with Flurries"
+      },
+      {
+         "data": "Mostly Cloudy with Snow"
+      }
+   ]
+}

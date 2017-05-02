@@ -1,0 +1,508 @@
+{
+   "Currencies": [
+      {
+         "data": "SEK"
+      },
+      {
+         "data": "MKD"
+      },
+      {
+         "data": "KMF"
+      },
+      {
+         "data": "NGN"
+      },
+      {
+         "data": "WST"
+      },
+      {
+         "data": "RON"
+      },
+      {
+         "data": "TRY"
+      },
+      {
+         "data": "SVC"
+      },
+      {
+         "data": "CLP"
+      },
+      {
+         "data": "IDR"
+      },
+      {
+         "data": "TND"
+      },
+      {
+         "data": "MZN"
+      },
+      {
+         "data": "JOD"
+      },
+      {
+         "data": "PKR"
+      },
+      {
+         "data": "LYD"
+      },
+      {
+         "data": "NZD"
+      },
+      {
+         "data": "CNY"
+      },
+      {
+         "data": "JPY"
+      },
+      {
+         "data": "THB"
+      },
+      {
+         "data": "MNT"
+      },
+      {
+         "data": "EUR"
+      },
+      {
+         "data": "FKP"
+      },
+      {
+         "data": "IRR"
+      },
+      {
+         "data": "AWG"
+      },
+      {
+         "data": "MMK"
+      },
+      {
+         "data": "AED"
+      },
+      {
+         "data": "NPR"
+      },
+      {
+         "data": "SBD"
+      },
+      {
+         "data": "VUV"
+      },
+      {
+         "data": "PLN"
+      },
+      {
+         "data": "PEN"
+      },
+      {
+         "data": "SDG"
+      },
+      {
+         "data": "BND"
+      },
+      {
+         "data": "SGD"
+      },
+      {
+         "data": "ISK"
+      },
+      {
+         "data": "GTQ"
+      },
+      {
+         "data": "PYG"
+      },
+      {
+         "data": "MRO"
+      },
+      {
+         "data": "PAB"
+      },
+      {
+         "data": "BIF"
+      },
+      {
+         "data": "EGP"
+      },
+      {
+         "data": "GGP"
+      },
+      {
+         "data": "SYP"
+      },
+      {
+         "data": "XAF"
+      },
+      {
+         "data": "KYD"
+      },
+      {
+         "data": "ALL"
+      },
+      {
+         "data": "PHP"
+      },
+      {
+         "data": "AMD"
+      },
+      {
+         "data": "MWK"
+      },
+      {
+         "data": "AFN"
+      },
+      {
+         "data": "BSD"
+      },
+      {
+         "data": "MUR"
+      },
+      {
+         "data": "SZL"
+      },
+      {
+         "data": "LVL"
+      },
+      {
+         "data": "BYR"
+      },
+      {
+         "data": "GNF"
+      },
+      {
+         "data": "GHS"
+      },
+      {
+         "data": "HKD"
+      },
+      {
+         "data": "ZMW"
+      },
+      {
+         "data": "DOP"
+      },
+      {
+         "data": "BOB"
+      },
+      {
+         "data": "XPF"
+      },
+      {
+         "data": "SAR"
+      },
+      {
+         "data": "SCR"
+      },
+      {
+         "data": "TOP"
+      },
+      {
+         "data": "ZMK"
+      },
+      {
+         "data": "INR"
+      },
+      {
+         "data": "HUF"
+      },
+      {
+         "data": "IQD"
+      },
+      {
+         "data": "UAH"
+      },
+      {
+         "data": "JEP"
+      },
+      {
+         "data": "CHF"
+      },
+      {
+         "data": "NOK"
+      },
+      {
+         "data": "OMR"
+      },
+      {
+         "data": "SRD"
+      },
+      {
+         "data": "ARS"
+      },
+      {
+         "data": "GMD"
+      },
+      {
+         "data": "MTL"
+      },
+      {
+         "data": "ILS"
+      },
+      {
+         "data": "COP"
+      },
+      {
+         "data": "XAG"
+      },
+      {
+         "data": "QAR"
+      },
+      {
+         "data": "GYD"
+      },
+      {
+         "data": "AZN"
+      },
+      {
+         "data": "BDT"
+      },
+      {
+         "data": "ZAR"
+      },
+      {
+         "data": "MYR"
+      },
+      {
+         "data": "YER"
+      },
+      {
+         "data": "TTD"
+      },
+      {
+         "data": "AOA"
+      },
+      {
+         "data": "RWF"
+      },
+      {
+         "data": "FJD"
+      },
+      {
+         "data": "CZK"
+      },
+      {
+         "data": "BAM"
+      },
+      {
+         "data": "LSL"
+      },
+      {
+         "data": "TJS"
+      },
+      {
+         "data": "VEF"
+      },
+      {
+         "data": "EEK"
+      },
+      {
+         "data": "MXN"
+      },
+      {
+         "data": "XAU"
+      },
+      {
+         "data": "SLL"
+      },
+      {
+         "data": "HTG"
+      },
+      {
+         "data": "KZT"
+      },
+      {
+         "data": "LKR"
+      },
+      {
+         "data": "MAD"
+      },
+      {
+         "data": "BHD"
+      },
+      {
+         "data": "AUD"
+      },
+      {
+         "data": "CUP"
+      },
+      {
+         "data": "BWP"
+      },
+      {
+         "data": "XDR"
+      },
+      {
+         "data": "STD"
+      },
+      {
+         "data": "HRK"
+      },
+      {
+         "data": "DJF"
+      },
+      {
+         "data": "BMD"
+      },
+      {
+         "data": "KPW"
+      },
+      {
+         "data": "MOP"
+      },
+      {
+         "data": "UGX"
+      },
+      {
+         "data": "CRC"
+      },
+      {
+         "data": "HNL"
+      },
+      {
+         "data": "ETB"
+      },
+      {
+         "data": "IMP"
+      },
+      {
+         "data": "MGA"
+      },
+      {
+         "data": "MDL"
+      },
+      {
+         "data": "GEL"
+      },
+      {
+         "data": "TZS"
+      },
+      {
+         "data": "CDF"
+      },
+      {
+         "data": "KHR"
+      },
+      {
+         "data": "ANG"
+      },
+      {
+         "data": "LBP"
+      },
+      {
+         "data": "JMD"
+      },
+      {
+         "data": "CAD"
+      },
+      {
+         "data": "BTN"
+      },
+      {
+         "data": "SOS"
+      },
+      {
+         "data": "TWD"
+      },
+      {
+         "data": "DKK"
+      },
+      {
+         "data": "BTC"
+      },
+      {
+         "data": "BZD"
+      },
+      {
+         "data": "ERN"
+      },
+      {
+         "data": "DZD"
+      },
+      {
+         "data": "KRW"
+      },
+      {
+         "data": "TMT"
+      },
+      {
+         "data": "XCD"
+      },
+      {
+         "data": "USD"
+      },
+      {
+         "data": "LTL"
+      },
+      {
+         "data": "RUB"
+      },
+      {
+         "data": "CLF"
+      },
+      {
+         "data": "UZS"
+      },
+      {
+         "data": "BRL"
+      },
+      {
+         "data": "SHP"
+      },
+      {
+         "data": "LRD"
+      },
+      {
+         "data": "CVE"
+      },
+      {
+         "data": "MVR"
+      },
+      {
+         "data": "XOF"
+      },
+      {
+         "data": "NIO"
+      },
+      {
+         "data": "BBD"
+      },
+      {
+         "data": "UYU"
+      },
+      {
+         "data": "BGN"
+      },
+      {
+         "data": "GBP"
+      },
+      {
+         "data": "NAD"
+      },
+      {
+         "data": "PGK"
+      },
+      {
+         "data": "VND"
+      },
+      {
+         "data": "KGS"
+      },
+      {
+         "data": "GIP"
+      },
+      {
+         "data": "KES"
+      },
+      {
+         "data": "LAK"
+      },
+      {
+         "data": "RSD"
+      },
+      {
+         "data": "KWD"
+      },
+      {
+         "data": "ZWL"
+      }
+   ]
+}

@@ -1,0 +1,106 @@
+{
+   "Banks": [
+      {
+         "data": "HSBC"
+      },
+      {
+         "data": "JP Morgan Chase"
+      },
+      {
+         "data": "BNP Paribas"
+      },
+      {
+         "data": "Deutsche Bank"
+      },
+      {
+         "data": "Barclays"
+      },
+      {
+         "data": "Citigroup"
+      },
+      {
+         "data": "Mitsubishi UFJ FG"
+      },
+      {
+         "data": "Credit Suisse"
+      },
+      {
+         "data": "Royal Bank of Scotland"
+      },
+      {
+         "data": "Bank of America"
+      },
+      {
+         "data": "Goldman Sachs"
+      },
+      {
+         "data": "Morgan Stanley"
+      },
+      {
+         "data": "Agricultural Bank of China"
+      },
+      {
+         "data": "Bank of China"
+      },
+      {
+         "data": "China Construction Bank"
+      },
+      {
+         "data": "ICBC"
+      },
+      {
+         "data": "Banque Populaire CE"
+      },
+      {
+         "data": "Crédit Agricole"
+      },
+      {
+         "data": "Société Générale"
+      },
+      {
+         "data": "Unicredit Group"
+      },
+      {
+         "data": "Mizuho FG"
+      },
+      {
+         "data": "Sumitomo Mitsui"
+      },
+      {
+         "data": "ING Bank"
+      },
+      {
+         "data": "Santander"
+      },
+      {
+         "data": "Nordea"
+      },
+      {
+         "data": "UBS"
+      },
+      {
+         "data": "Standard Chartered"
+      },
+      {
+         "data": "Bank of New York Mellon"
+      },
+      {
+         "data": "State Street"
+      },
+      {
+         "data": "Wells Fargo"
+      },
+      {
+         "data": "Commerzbank"
+      },
+      {
+         "data": "Banco Bilbao Vizcaya Argentaria"
+      },
+      {
+         "data": "Lloyds Banking Group"
+      },
+      {
+         "data": "Dexia Group"
+      }
+   ]
+}

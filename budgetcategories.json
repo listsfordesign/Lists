@@ -1,0 +1,46 @@
+{
+   "Budget (Categories)": [
+      {
+         "data": "Auto & Transport"
+      },
+      {
+         "data": "Bank"
+      },
+      {
+         "data": "Bills & Utilities"
+      },
+      {
+         "data": "Business services"
+      },
+      {
+         "data": "Education & Children"
+      },
+      {
+         "data": "Entertainment"
+      },
+      {
+         "data": "Food & Dining"
+      },
+      {
+         "data": "Health"
+      },
+      {
+         "data": "Home"
+      },
+      {
+         "data": "Miscellaneous expenses"
+      },
+      {
+         "data": "Personal care"
+      },
+      {
+         "data": "Shopping"
+      },
+      {
+         "data": "Taxes"
+      },
+      {
+         "data": "Money transfer"
+      }
+   ]
+}

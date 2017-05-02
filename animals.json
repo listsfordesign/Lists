@@ -1,0 +1,568 @@
+{
+   "Animals": [
+      {
+         "data": "Deer"
+      },
+      {
+         "data": "Goat"
+      },
+      {
+         "data": "Jaguar"
+      },
+      {
+         "data": "Panther"
+      },
+      {
+         "data": "Chicken"
+      },
+      {
+         "data": "Salamander"
+      },
+      {
+         "data": "Dog"
+      },
+      {
+         "data": "Civet"
+      },
+      {
+         "data": "Lemur"
+      },
+      {
+         "data": "Ermine"
+      },
+      {
+         "data": "Bear"
+      },
+      {
+         "data": "Lizard"
+      },
+      {
+         "data": "Hamster"
+      },
+      {
+         "data": "Guanaco"
+      },
+      {
+         "data": "Hippopotamus"
+      },
+      {
+         "data": "Capybara"
+      },
+      {
+         "data": "Ground hog"
+      },
+      {
+         "data": "Mule"
+      },
+      {
+         "data": "Octopus"
+      },
+      {
+         "data": "Bumble bee"
+      },
+      {
+         "data": "Lamb"
+      },
+      {
+         "data": "Fox"
+      },
+      {
+         "data": "Ram"
+      },
+      {
+         "data": "Sheep"
+      },
+      {
+         "data": "Hedgehog"
+      },
+      {
+         "data": "Eland"
+      },
+      {
+         "data": "Hog"
+      },
+      {
+         "data": "Kangaroo"
+      },
+      {
+         "data": "Dromedary"
+      },
+      {
+         "data": "Rooster"
+      },
+      {
+         "data": "Aoudad"
+      },
+      {
+         "data": "Mare"
+      },
+      {
+         "data": "Waterbuck"
+      },
+      {
+         "data": "Armadillo"
+      },
+      {
+         "data": "Dormouse"
+      },
+      {
+         "data": "Dingo"
+      },
+      {
+         "data": "Ox"
+      },
+      {
+         "data": "Koala"
+      },
+      {
+         "data": "Walrus"
+      },
+      {
+         "data": "Aardvark"
+      },
+      {
+         "data": "Bunny"
+      },
+      {
+         "data": "Peccary"
+      },
+      {
+         "data": "Parrot"
+      },
+      {
+         "data": "Porpoise"
+      },
+      {
+         "data": "Leopard"
+      },
+      {
+         "data": "Hyena"
+      },
+      {
+         "data": "Muskrat"
+      },
+      {
+         "data": "Prairie dog"
+      },
+      {
+         "data": "Doe"
+      },
+      {
+         "data": "Lion"
+      },
+      {
+         "data": "Gazelle"
+      },
+      {
+         "data": "Beaver"
+      },
+      {
+         "data": "Snowy owl"
+      },
+      {
+         "data": "Anteater"
+      },
+      {
+         "data": "Cat"
+      },
+      {
+         "data": "Wombat"
+      },
+      {
+         "data": "Jackal"
+      },
+      {
+         "data": "Fish"
+      },
+      {
+         "data": "Mole"
+      },
+      {
+         "data": "Mountain goat"
+      },
+      {
+         "data": "Baboon"
+      },
+      {
+         "data": "Steer"
+      },
+      {
+         "data": "Rabbit"
+      },
+      {
+         "data": "Canary"
+      },
+      {
+         "data": "Iguana"
+      },
+      {
+         "data": "Bald eagle"
+      },
+      {
+         "data": "Crocodile"
+      },
+      {
+         "data": "Colt"
+      },
+      {
+         "data": "Zebu"
+      },
+      {
+         "data": "Finch"
+      },
+      {
+         "data": "Woodchuck"
+      },
+      {
+         "data": "Gila monster"
+      },
+      {
+         "data": "Warthog"
+      },
+      {
+         "data": "Bighorn"
+      },
+      {
+         "data": "Panda"
+      },
+      {
+         "data": "Addax"
+      },
+      {
+         "data": "Porcupine"
+      },
+      {
+         "data": "Monkey"
+      },
+      {
+         "data": "Marmoset"
+      },
+      {
+         "data": "Silver fox"
+      },
+      {
+         "data": "Okapi"
+      },
+      {
+         "data": "Elk"
+      },
+      {
+         "data": "Basilisk"
+      },
+      {
+         "data": "Quagga"
+      },
+      {
+         "data": "Tiger"
+      },
+      {
+         "data": "Toad"
+      },
+      {
+         "data": "Wolverine"
+      },
+      {
+         "data": "Vicuna"
+      },
+      {
+         "data": "Musk deer"
+      },
+      {
+         "data": "Eagle owl"
+      },
+      {
+         "data": "Mink"
+      },
+      {
+         "data": "Skunk"
+      },
+      {
+         "data": "Oryx"
+      },
+      {
+         "data": "Wolf"
+      },
+      {
+         "data": "Burro"
+      },
+      {
+         "data": "Opossum"
+      },
+      {
+         "data": "Cheetah"
+      },
+      {
+         "data": "Chimpanzee"
+      },
+      {
+         "data": "Cow"
+      },
+      {
+         "data": "Dung beetle"
+      },
+      {
+         "data": "Cougar"
+      },
+      {
+         "data": "Guinea pig"
+      },
+      {
+         "data": "Mynah bird"
+      },
+      {
+         "data": "Coyote"
+      },
+      {
+         "data": "Bison"
+      },
+      {
+         "data": "Musk-ox"
+      },
+      {
+         "data": "Grizzly bear"
+      },
+      {
+         "data": "Wildcat"
+      },
+      {
+         "data": "Elephant"
+      },
+      {
+         "data": "Parakeet"
+      },
+      {
+         "data": "Bat"
+      },
+      {
+         "data": "Seal"
+      },
+      {
+         "data": "Pony"
+      },
+      {
+         "data": "Chamois"
+      },
+      {
+         "data": "Alpaca"
+      },
+      {
+         "data": "Crow"
+      },
+      {
+         "data": "Stallion"
+      },
+      {
+         "data": "Horse"
+      },
+      {
+         "data": "Shrew"
+      },
+      {
+         "data": "Otter"
+      },
+      {
+         "data": "Pronghorn"
+      },
+      {
+         "data": "Boar"
+      },
+      {
+         "data": "Squirrel"
+      },
+      {
+         "data": "Antelope"
+      },
+      {
+         "data": "Starfish"
+      },
+      {
+         "data": "Polar bear"
+      },
+      {
+         "data": "Mouse"
+      },
+      {
+         "data": "Gopher"
+      },
+      {
+         "data": "Newt"
+      },
+      {
+         "data": "Alligator"
+      },
+      {
+         "data": "Ocelot"
+      },
+      {
+         "data": "Weasel"
+      },
+      {
+         "data": "Budgerigar"
+      },
+      {
+         "data": "Puppy"
+      },
+      {
+         "data": "Badger"
+      },
+      {
+         "data": "Camel"
+      },
+      {
+         "data": "Highland cow"
+      },
+      {
+         "data": "Chinchilla"
+      },
+      {
+         "data": "Orangutan"
+      },
+      {
+         "data": "Hartebeest"
+      },
+      {
+         "data": "Mustang"
+      },
+      {
+         "data": "Zebra"
+      },
+      {
+         "data": "Lovebird"
+      },
+      {
+         "data": "Snake"
+      },
+      {
+         "data": "Mandrill"
+      },
+      {
+         "data": "Gorilla"
+      },
+      {
+         "data": "Chameleon"
+      },
+      {
+         "data": "Springbok"
+      },
+      {
+         "data": "Puma"
+      },
+      {
+         "data": "Ewe"
+      },
+      {
+         "data": "Buffalo"
+      },
+      {
+         "data": "Ferret"
+      },
+      {
+         "data": "Thorny devil"
+      },
+      {
+         "data": "Fawn"
+      },
+      {
+         "data": "Tapir"
+      },
+      {
+         "data": "Rhinoceros"
+      },
+      {
+         "data": "Coati"
+      },
+      {
+         "data": "Pig"
+      },
+      {
+         "data": "Impala"
+      },
+      {
+         "data": "Mongoose"
+      },
+      {
+         "data": "Kitten"
+      },
+      {
+         "data": "Giraffe"
+      },
+      {
+         "data": "Donkey"
+      },
+      {
+         "data": "Chipmunk"
+      },
+      {
+         "data": "Marten"
+      },
+      {
+         "data": "Frog"
+      },
+      {
+         "data": "Gnu"
+      },
+      {
+         "data": "Gemsbok"
+      },
+      {
+         "data": "Duckbill platypus"
+      },
+      {
+         "data": "Meerkat"
+      },
+      {
+         "data": "Reindeer"
+      },
+      {
+         "data": "Ape"
+      },
+      {
+         "data": "Turtle"
+      },
+      {
+         "data": "Lynx"
+      },
+      {
+         "data": "Moose"
+      },
+      {
+         "data": "Hare"
+      },
+      {
+         "data": "Llama"
+      },
+      {
+         "data": "Blue crab"
+      },
+      {
+         "data": "Whale"
+      },
+      {
+         "data": "Argali"
+      },
+      {
+         "data": "Dugong"
+      },
+      {
+         "data": "Rat"
+      },
+      {
+         "data": "Ibex"
+      },
+      {
+         "data": "Yak"
+      },
+      {
+         "data": "Raccoon"
+      },
+      {
+         "data": "Jerboa"
+      },
+      {
+         "data": "Bull"
+      },
+      {
+         "data": "Sloth"
+      }
+   ]
+}
