@@ -1,0 +1,1507 @@
+{
+   "Teams (Soccer)": [
+      {
+         "data": "Real Madrid CF"
+      },
+      {
+         "data": "FC Bayern München"
+      },
+      {
+         "data": "FC Barcelona"
+      },
+      {
+         "data": "Club Atlético de Madrid"
+      },
+      {
+         "data": "Juventus"
+      },
+      {
+         "data": "Paris Saint-Germain FC"
+      },
+      {
+         "data": "BV Borussia Dortmund"
+      },
+      {
+         "data": "Sevilla FC"
+      },
+      {
+         "data": "SL Benfica"
+      },
+      {
+         "data": "Chelsea FC"
+      },
+      {
+         "data": "Arsenal FC"
+      },
+      {
+         "data": "Manchester City FC"
+      },
+      {
+         "data": "FC Porto"
+      },
+      {
+         "data": "FC Schalke 04"
+      },
+      {
+         "data": "Manchester United FC"
+      },
+      {
+         "data": "Bayer 04 Leverkusen"
+      },
+      {
+         "data": "SSC Napoli"
+      },
+      {
+         "data": "FC Shakhtar Donetsk"
+      },
+      {
+         "data": "FC Zenit St. Petersburg"
+      },
+      {
+         "data": "Tottenham Hotspur FC"
+      },
+      {
+         "data": "Valencia CF"
+      },
+      {
+         "data": "FC Basel 1893"
+      },
+      {
+         "data": "Olympique Lyonnais"
+      },
+      {
+         "data": "ACF Fiorentina"
+      },
+      {
+         "data": "FC Dynamo Kyiv"
+      },
+      {
+         "data": "AFC Ajax"
+      },
+      {
+         "data": "Villarreal CF"
+      },
+      {
+         "data": "Olympiacos FC"
+      },
+      {
+         "data": "AS Monaco FC"
+      },
+      {
+         "data": "Athletic Club"
+      },
+      {
+         "data": "Galatasaray SK"
+      },
+      {
+         "data": "RSC Anderlecht"
+      },
+      {
+         "data": "Lazio"
+      },
+      {
+         "data": "Liverpool FC"
+      },
+      {
+         "data": "VfL Wolfsburg"
+      },
+      {
+         "data": "VfL Borussia 1900 Mönchengladbach"
+      },
+      {
+         "data": "AS Roma"
+      },
+      {
+         "data": "FC Dnipro Dnipropetrovsk"
+      },
+      {
+         "data": "Fenerbahçe SK"
+      },
+      {
+         "data": "AC Sparta Praha"
+      },
+      {
+         "data": "AC Milan"
+      },
+      {
+         "data": "PSV Eindhoven"
+      },
+      {
+         "data": "Beşiktaş JK"
+      },
+      {
+         "data": "KRC Genk"
+      },
+      {
+         "data": "FC Internazionale Milano"
+      },
+      {
+         "data": "FC Rubin Kazan"
+      },
+      {
+         "data": "Málaga CF"
+      },
+      {
+         "data": "Celtic FC"
+      },
+      {
+         "data": "FC Viktoria Plzeň"
+      },
+      {
+         "data": "FC Red Bull Salzburg"
+      },
+      {
+         "data": "Celta de Vigo"
+      },
+      {
+         "data": "PFC CSKA Moskva"
+      },
+      {
+         "data": "Club Brugge"
+      },
+      {
+         "data": "FC København"
+      },
+      {
+         "data": "SC Braga"
+      },
+      {
+         "data": "Leicester City"
+      },
+      {
+         "data": "Sporting Clube de Portugal"
+      },
+      {
+         "data": "AS Saint-Étienne"
+      },
+      {
+         "data": "KAA Gent"
+      },
+      {
+         "data": "FC Steaua Bucureşti"
+      },
+      {
+         "data": "PAOK FC"
+      },
+      {
+         "data": "Leicester City FC"
+      },
+      {
+         "data": "PFC Ludogorets Razgrad"
+      },
+      {
+         "data": "Levante UD"
+      },
+      {
+         "data": "Real Betis"
+      },
+      {
+         "data": "AZ Alkmaar"
+      },
+      {
+         "data": "FK Krasnodar"
+      },
+      {
+         "data": "Anzhi Makhachkala"
+      },
+      {
+         "data": "Newcastle United FC"
+      },
+      {
+         "data": "FC BATE Borisov"
+      },
+      {
+         "data": "FC Girondins de Bordeaux"
+      },
+      {
+         "data": "Everton FC"
+      },
+      {
+         "data": "BSC Young Boys"
+      },
+      {
+         "data": "SK Rapid Wien"
+      },
+      {
+         "data": "Legia Warszawa SA"
+      },
+      {
+         "data": "Olympique de Marseille"
+      },
+      {
+         "data": "Eintracht Frankfurt"
+      },
+      {
+         "data": "Torino"
+      },
+      {
+         "data": "Dinamo Moscow"
+      },
+      {
+         "data": "Real Sociedad de Fútbol"
+      },
+      {
+         "data": "Trabzonspor AŞ"
+      },
+      {
+         "data": "VfB Stuttgart"
+      },
+      {
+         "data": "Apoel FC"
+      },
+      {
+         "data": "GNK Dinamo"
+      },
+      {
+         "data": "Hannover 96"
+      },
+      {
+         "data": "FC Slovan Liberec"
+      },
+      {
+         "data": "FSV Mainz 05"
+      },
+      {
+         "data": "FK Rostov"
+      },
+      {
+         "data": "Maccabi Tel-Aviv FC"
+      },
+      {
+         "data": "Feyenoord Rotterdam"
+      },
+      {
+         "data": "Stoke City"
+      },
+      {
+         "data": "FC Augsburg"
+      },
+      {
+         "data": "Southampton FC"
+      },
+      {
+         "data": "Birmingham City"
+      },
+      {
+         "data": "LOSC Lille"
+      },
+      {
+         "data": "Swansea City"
+      },
+      {
+         "data": "NK Maribor"
+      },
+      {
+         "data": "R. Standard de Liège"
+      },
+      {
+         "data": "Fulham FC"
+      },
+      {
+         "data": "SC Freiburg"
+      },
+      {
+         "data": "FC Lokomotiv Moskva"
+      },
+      {
+         "data": "FC Metalist Kharkiv"
+      },
+      {
+         "data": "En Avant Guingamp"
+      },
+      {
+         "data": "FC Chornomorets Odesa"
+      },
+      {
+         "data": "Molde FK"
+      },
+      {
+         "data": "Udinese Calcio"
+      },
+      {
+         "data": "Wigan Athletic"
+      },
+      {
+         "data": "Sassuolo"
+      },
+      {
+         "data": "FC Spartak Moskva"
+      },
+      {
+         "data": "FC Zürich"
+      },
+      {
+         "data": "Qarabağ FK"
+      },
+      {
+         "data": "AFC Astra"
+      },
+      {
+         "data": "West Ham United"
+      },
+      {
+         "data": "Chernomorets Odesa"
+      },
+      {
+         "data": "Montpellier HSC"
+      },
+      {
+         "data": "FK Austria Wien"
+      },
+      {
+         "data": "KSC Lokeren"
+      },
+      {
+         "data": "Malmö FF"
+      },
+      {
+         "data": "Hertha BSC"
+      },
+      {
+         "data": "CFR 1907 Cluj"
+      },
+      {
+         "data": "Estoril Praia"
+      },
+      {
+         "data": "OGC Nice"
+      },
+      {
+         "data": "Asteras Tripolis"
+      },
+      {
+         "data": "FK Astana"
+      },
+      {
+         "data": "Hull City"
+      },
+      {
+         "data": "FC Midtjylland"
+      },
+      {
+         "data": "US Città di Palermo"
+      },
+      {
+         "data": "FK Partizan"
+      },
+      {
+         "data": "Osmanlispor"
+      },
+      {
+         "data": "U.C. Sampdoria"
+      },
+      {
+         "data": "Asteras Tripolis FC"
+      },
+      {
+         "data": "NK Rijeka"
+      },
+      {
+         "data": "Kuban Krasnodar"
+      },
+      {
+         "data": "Panathinaikos FC"
+      },
+      {
+         "data": "Vitória Guimarães"
+      },
+      {
+         "data": "Maritimo Funchal"
+      },
+      {
+         "data": "Esbjerg fB"
+      },
+      {
+         "data": "Zulte Waregem"
+      },
+      {
+         "data": "FC Sion"
+      },
+      {
+         "data": "Rio Ave"
+      },
+      {
+         "data": "Stade Rennais FC"
+      },
+      {
+         "data": "CF Os Belenenses"
+      },
+      {
+         "data": "Académica Coimbra"
+      },
+      {
+         "data": "Zorya Luhansk"
+      },
+      {
+         "data": "Paços de Ferreira"
+      },
+      {
+         "data": "Rosenborg BK"
+      },
+      {
+         "data": "Wisła Kraków SA"
+      },
+      {
+         "data": "FC Sochaux-Montbéliard"
+      },
+      {
+         "data": "FC Twente"
+      },
+      {
+         "data": "HNK Hajduk Split"
+      },
+      {
+         "data": "FC Arouca"
+      },
+      {
+         "data": "Nacional Funchal"
+      },
+      {
+         "data": "Aalborg BK"
+      },
+      {
+         "data": "FC Nordsjælland"
+      },
+      {
+         "data": "FC Sheriff Tiraspol"
+      },
+      {
+         "data": "Alania Vladikavkaz"
+      },
+      {
+         "data": "Atromitos FC"
+      },
+      {
+         "data": "Sibir Novosibirsk"
+      },
+      {
+         "data": "FC Dinamo Minsk"
+      },
+      {
+         "data": "KKS Lech Poznań"
+      },
+      {
+         "data": "Grasshopper-Club Zürich"
+      },
+      {
+         "data": "Hapoel Beer-Sheva"
+      },
+      {
+         "data": "Bursaspor Kulübü"
+      },
+      {
+         "data": "Apollon FC"
+      },
+      {
+         "data": "Astra Giurgiu"
+      },
+      {
+         "data": "HJK Helsinki"
+      },
+      {
+         "data": "Vorskla Poltava"
+      },
+      {
+         "data": "Metalurg Donetsk"
+      },
+      {
+         "data": "IF Elfsborg"
+      },
+      {
+         "data": "FC Sankt Gallen"
+      },
+      {
+         "data": "Istanbul Basaksehir"
+      },
+      {
+         "data": "Mladá Boleslav"
+      },
+      {
+         "data": "Karpaty Lviv"
+      },
+      {
+         "data": "AIK Fotboll"
+      },
+      {
+         "data": "FC Thun"
+      },
+      {
+         "data": "Konyaspor"
+      },
+      {
+         "data": "PFC Neftchi"
+      },
+      {
+         "data": "FK Jablonec"
+      },
+      {
+         "data": "FC Oleksandriya"
+      },
+      {
+         "data": "Arsenal Kiev"
+      },
+      {
+         "data": "Charleroi"
+      },
+      {
+         "data": "FC Luzern"
+      },
+      {
+         "data": "Karabükspor"
+      },
+      {
+         "data": "BV Vitesse"
+      },
+      {
+         "data": "FK Vojvodina"
+      },
+      {
+         "data": "Eskisehirspor"
+      },
+      {
+         "data": "Brøndby IF"
+      },
+      {
+         "data": "FC Oţelul Galaţi"
+      },
+      {
+         "data": "FC Groningen"
+      },
+      {
+         "data": "KVC Westerlo"
+      },
+      {
+         "data": "Videoton FC"
+      },
+      {
+         "data": "AIK Stockholm"
+      },
+      {
+         "data": "Maccabi Haifa FC"
+      },
+      {
+         "data": "Hapoel Tel-Aviv FC"
+      },
+      {
+         "data": "AC Omonia Nicosia"
+      },
+      {
+         "data": "AEL Limassol"
+      },
+      {
+         "data": "SK Slavia Praha"
+      },
+      {
+         "data": "IFK Göteborg"
+      },
+      {
+         "data": "Hapoel Kiryat Shmona"
+      },
+      {
+         "data": "CS Pandurii Lignitul Tg-Jiu"
+      },
+      {
+         "data": "Petrolul Ploiesti"
+      },
+      {
+         "data": "Gabala FK"
+      },
+      {
+         "data": "PEC Zwolle"
+      },
+      {
+         "data": "sc Heerenveen"
+      },
+      {
+         "data": "ADO Den Haag"
+      },
+      {
+         "data": "Tromsø IL"
+      },
+      {
+         "data": "Lokomotiva Zagreb"
+      },
+      {
+         "data": "FK Aktobe"
+      },
+      {
+         "data": "FC Shakhtyor Soligorsk"
+      },
+      {
+         "data": "WKS Śląsk Wrocław"
+      },
+      {
+         "data": "Servette FC Genève"
+      },
+      {
+         "data": "Gaziantepspor"
+      },
+      {
+         "data": "ŠK Slovan Bratislava"
+      },
+      {
+         "data": "FK Crvena Zvezda"
+      },
+      {
+         "data": "Heracles Almelo"
+      },
+      {
+         "data": "Strømsgodset Toppfotball"
+      },
+      {
+         "data": "Admira Wacker"
+      },
+      {
+         "data": "FK Shakter Karaganda"
+      },
+      {
+         "data": "Helsingborgs IF"
+      },
+      {
+         "data": "Debreceni VSC"
+      },
+      {
+         "data": "AS Trenčín"
+      },
+      {
+         "data": "Spartak Trnava"
+      },
+      {
+         "data": "KF Skënderbeu"
+      },
+      {
+         "data": "Aberdeen FC"
+      },
+      {
+         "data": "Motherwell FC"
+      },
+      {
+         "data": "FC Utrecht"
+      },
+      {
+         "data": "AEK Athens FC"
+      },
+      {
+         "data": "PAS Giannina"
+      },
+      {
+         "data": "Xanthi FC"
+      },
+      {
+         "data": "SCR Altach"
+      },
+      {
+         "data": "SK Sturm Graz"
+      },
+      {
+         "data": "FC Pasching"
+      },
+      {
+         "data": "Olympiakos Volou"
+      },
+      {
+         "data": "RNK Split"
+      },
+      {
+         "data": "SV Pasching"
+      },
+      {
+         "data": "Odense BK"
+      },
+      {
+         "data": "St. Johnstone"
+      },
+      {
+         "data": "Go Ahead Eagles"
+      },
+      {
+         "data": "Gaz Metan Medias"
+      },
+      {
+         "data": "Ruch Chorzów SA"
+      },
+      {
+         "data": "FC Vaslui"
+      },
+      {
+         "data": "SC Dinamo 1948 Bucureşti"
+      },
+      {
+         "data": "SønderjyskE"
+      },
+      {
+         "data": "Randers FC"
+      },
+      {
+         "data": "AC Horsens"
+      },
+      {
+         "data": "AEK Larnaca"
+      },
+      {
+         "data": "FH Hafnarfjörður"
+      },
+      {
+         "data": "Wolfsberger AC"
+      },
+      {
+         "data": "St. Pölten"
+      },
+      {
+         "data": "SV Grödig"
+      },
+      {
+         "data": "SV Ried"
+      },
+      {
+         "data": "Slaven Koprivnica"
+      },
+      {
+         "data": "Inter Baku"
+      },
+      {
+         "data": "Beitar Jerusalem"
+      },
+      {
+         "data": "Viitorul Constanta"
+      },
+      {
+         "data": "ASA Tirgu Mures"
+      },
+      {
+         "data": "FC Rapid Bucureşti"
+      },
+      {
+         "data": "MŠK Žilina"
+      },
+      {
+         "data": "FK Žalgiris"
+      },
+      {
+         "data": "Dundalk"
+      },
+      {
+         "data": "Heart of Midlothian FC"
+      },
+      {
+         "data": "NK Varazdin"
+      },
+      {
+         "data": "The New Saints FC"
+      },
+      {
+         "data": "FK Ventspils"
+      },
+      {
+         "data": "Odd Grenland"
+      },
+      {
+         "data": "KR Reykjavík"
+      },
+      {
+         "data": "Kairat Almaty"
+      },
+      {
+         "data": "NK Osijek"
+      },
+      {
+         "data": "FC Dinamo Tbilisi"
+      },
+      {
+         "data": "Dila Gori"
+      },
+      {
+         "data": "FK Minsk"
+      },
+      {
+         "data": "BK Häcken"
+      },
+      {
+         "data": "CSMS Iasi"
+      },
+      {
+         "data": "FC Botosani"
+      },
+      {
+         "data": "AGF Aarhus"
+      },
+      {
+         "data": "FK Sarajevo"
+      },
+      {
+         "data": "Torpedo Zhodino"
+      },
+      {
+         "data": "Anorthosis Famagusta FC"
+      },
+      {
+         "data": "KR Reykjavík"
+      },
+      {
+         "data": "FK Vardar"
+      },
+      {
+         "data": "F91 Dudelange"
+      },
+      {
+         "data": "FC Gomel"
+      },
+      {
+         "data": "Zaglebie Lubin"
+      },
+      {
+         "data": "Piast Gliwice"
+      },
+      {
+         "data": "IFK Norrköping"
+      },
+      {
+         "data": "IF Brommapojkarna"
+      },
+      {
+         "data": "Gefle IF"
+      },
+      {
+         "data": "Kalmar FF"
+      },
+      {
+         "data": "Milsami Orhei"
+      },
+      {
+         "data": "Hapoel Ramat-Gan"
+      },
+      {
+         "data": "FC Bnei-Yehuda"
+      },
+      {
+         "data": "Kalju Nomme"
+      },
+      {
+         "data": "Rangers FC"
+      },
+      {
+         "data": "NK Željezničar"
+      },
+      {
+         "data": "Hibernian"
+      },
+      {
+         "data": "Dundee United"
+      },
+      {
+         "data": "Vålerenga IF"
+      },
+      {
+         "data": "Ermis Aradippou"
+      },
+      {
+         "data": "FC Beroe Stara Zagora"
+      },
+      {
+         "data": "Botev Plovdiv"
+      },
+      {
+         "data": "Aalesunds FK"
+      },
+      {
+         "data": "NK Olimpija Ljubljana"
+      },
+      {
+         "data": "Cukaricki Belgrade"
+      },
+      {
+         "data": "Valletta FC"
+      },
+      {
+         "data": "Xäzär Länkäran FK"
+      },
+      {
+         "data": "FK Kukësi"
+      },
+      {
+         "data": "Shamrock Rovers FC"
+      },
+      {
+         "data": "Neman Grodno"
+      },
+      {
+         "data": "Naftan Novopolotsk"
+      },
+      {
+         "data": "FC Vaduz"
+      },
+      {
+         "data": "Jagiellonia Bialystok"
+      },
+      {
+         "data": "Zawisza Bydgoszcz"
+      },
+      {
+         "data": "Örebro SK"
+      },
+      {
+         "data": "PFC Levski Sofia"
+      },
+      {
+         "data": "CFC Zimbru Chisinau"
+      },
+      {
+         "data": "Maccabi Netanya FC"
+      },
+      {
+         "data": "FK Jagodina"
+      },
+      {
+         "data": "Saint Patrick's Athletic FC"
+      },
+      {
+         "data": "Inverness CT"
+      },
+      {
+         "data": "Cracovia Kraków"
+      },
+      {
+         "data": "PFC CSKA Sofia"
+      },
+      {
+         "data": "Stjarnan FC"
+      },
+      {
+         "data": "Stabæk IF"
+      },
+      {
+         "data": "FK Haugesund"
+      },
+      {
+         "data": "IL Hødd"
+      },
+      {
+         "data": "NK Domžale"
+      },
+      {
+         "data": "Mura Murska Sobota"
+      },
+      {
+         "data": "Kapaz Ganja"
+      },
+      {
+         "data": "Zrinjski Mostar"
+      },
+      {
+         "data": "Ordabasy Shymkent"
+      },
+      {
+         "data": "Levadia Tallinn"
+      },
+      {
+         "data": "PFC Litex Lovech"
+      },
+      {
+         "data": "Ferencvárosi TC"
+      },
+      {
+         "data": "Crusaders FC"
+      },
+      {
+         "data": "FK Rabotnički"
+      },
+      {
+         "data": "Birkirkara FC"
+      },
+      {
+         "data": "FK Baku"
+      },
+      {
+         "data": "Shirak Gyumri"
+      },
+      {
+         "data": "Tobol Kustanai"
+      },
+      {
+         "data": "Cherno More Varna"
+      },
+      {
+         "data": "Lokomotiv Plovdiv"
+      },
+      {
+         "data": "FC Zimbru Chişinău"
+      },
+      {
+         "data": "Cliftonville FC"
+      },
+      {
+         "data": "FC Dacia Chişinău"
+      },
+      {
+         "data": "Linfield FC"
+      },
+      {
+         "data": "FC Koper"
+      },
+      {
+         "data": "Lokomotiv Sofia"
+      },
+      {
+         "data": "FK Ekranas"
+      },
+      {
+         "data": "Mladost Podgorica"
+      },
+      {
+         "data": "FC Irtysh Pavlodar"
+      },
+      {
+         "data": "Irtysh Pavlodar"
+      },
+      {
+         "data": "NK Široki Brijeg"
+      },
+      {
+         "data": "CS Fola Esch"
+      },
+      {
+         "data": "Differdange 03"
+      },
+      {
+         "data": "Slavia Sofia"
+      },
+      {
+         "data": "Györi ETO FC"
+      },
+      {
+         "data": "KF Shkëndija Tetovo"
+      },
+      {
+         "data": "Nova Gorica"
+      },
+      {
+         "data": "NK Celje"
+      },
+      {
+         "data": "FK Rad Belgrade"
+      },
+      {
+         "data": "Crusaders FC"
+      },
+      {
+         "data": "FK Senica"
+      },
+      {
+         "data": "Sligo Rovers"
+      },
+      {
+         "data": "FK Budućnost"
+      },
+      {
+         "data": "Zhetysu Taldykorgan"
+      },
+      {
+         "data": "Sutjeska Niksic"
+      },
+      {
+         "data": "AZAL PFC Baku"
+      },
+      {
+         "data": "FC Pyunik"
+      },
+      {
+         "data": "Shamrock Rovers FC"
+      },
+      {
+         "data": "Partizani Tirana"
+      },
+      {
+         "data": "FC Flora Tallinn"
+      },
+      {
+         "data": "Rudar Pljevlja"
+      },
+      {
+         "data": "Chikhura Sachkhere"
+      },
+      {
+         "data": "Lincoln Red Imps"
+      },
+      {
+         "data": "FK Jelgava"
+      },
+      {
+         "data": "Víkingur"
+      },
+      {
+         "data": "Breidablik"
+      },
+      {
+         "data": "MTK Hungária FC"
+      },
+      {
+         "data": "Diósgyöri Miskolc"
+      },
+      {
+         "data": "Budapest Honvéd FC"
+      },
+      {
+         "data": "Paksi FC"
+      },
+      {
+         "data": "Rudar Velenje"
+      },
+      {
+         "data": "Metalurg Skopje"
+      },
+      {
+         "data": "MFK Kosice"
+      },
+      {
+         "data": "Hibernians Football Club"
+      },
+      {
+         "data": "SJK Seinäjoki"
+      },
+      {
+         "data": "FC Zestafoni"
+      },
+      {
+         "data": "FC Santa Coloma"
+      },
+      {
+         "data": "Skonto FC"
+      },
+      {
+         "data": "Daugava Daugavpils"
+      },
+      {
+         "data": "Spartak Myjava"
+      },
+      {
+         "data": "Cork City"
+      },
+      {
+         "data": "FK Zeta"
+      },
+      {
+         "data": "RoPS Rovaniemi"
+      },
+      {
+         "data": "Myllykosken Pallo-47"
+      },
+      {
+         "data": "KuPS Kuopio"
+      },
+      {
+         "data": "Alashkert FC"
+      },
+      {
+         "data": "B36 Tórshavn"
+      },
+      {
+         "data": "USV Eschen-Mauren"
+      },
+      {
+         "data": "HB Tórshavn"
+      },
+      {
+         "data": "Kecskeméti TE"
+      },
+      {
+         "data": "IBV Vestmannaeyjar"
+      },
+      {
+         "data": "FC Tiraspol"
+      },
+      {
+         "data": "Derry City FC"
+      },
+      {
+         "data": "KF Laçi"
+      },
+      {
+         "data": "FC Honka Espoo"
+      },
+      {
+         "data": "FC Inter Turku"
+      },
+      {
+         "data": "Iskra-Stal Ribnita"
+      },
+      {
+         "data": "Ulisses Yerevan"
+      },
+      {
+         "data": "FK Liepaja"
+      },
+      {
+         "data": "Jeunesse d'Esch"
+      },
+      {
+         "data": "Thór Akureyri"
+      },
+      {
+         "data": "Zaria Balti"
+      },
+      {
+         "data": "Saxan Gagauz Yeri"
+      },
+      {
+         "data": "Veris Chisinau"
+      },
+      {
+         "data": "FC Inter Turku"
+      },
+      {
+         "data": "Teuta Durrës"
+      },
+      {
+         "data": "Celik Niksic"
+      },
+      {
+         "data": "KS Flamurtari Vlorë"
+      },
+      {
+         "data": "IFK Mariehamn"
+      },
+      {
+         "data": "VPS Vaasa"
+      },
+      {
+         "data": "JJK Jyväskylä"
+      },
+      {
+         "data": "Gagra Tbilisi"
+      },
+      {
+         "data": "Spartaks Jurmala"
+      },
+      {
+         "data": "FK Liepājas Metalurgs"
+      },
+      {
+         "data": "EB/Streymur"
+      },
+      {
+         "data": "Valur Reykjavik"
+      },
+      {
+         "data": "Vikingur Reykjavik"
+      },
+      {
+         "data": "Fram Reykjavik"
+      },
+      {
+         "data": "Renova Dzepciste"
+      },
+      {
+         "data": "FK Turnovo"
+      },
+      {
+         "data": "Atlantas Klaipeda"
+      },
+      {
+         "data": "FK Sūduva"
+      },
+      {
+         "data": "FK Mogren"
+      },
+      {
+         "data": "Uni College Dublin"
+      },
+      {
+         "data": "Kalev Sillamäe"
+      },
+      {
+         "data": "KF Tirana"
+      },
+      {
+         "data": "FC Lahti"
+      },
+      {
+         "data": "TPS Turku"
+      },
+      {
+         "data": "FC Banants"
+      },
+      {
+         "data": "Gandzasar Kapan"
+      },
+      {
+         "data": "Torpedo Kutaisi"
+      },
+      {
+         "data": "Olimpi Rustavi"
+      },
+      {
+         "data": "KF Vllaznia"
+      },
+      {
+         "data": "FC Lusitanos"
+      },
+      {
+         "data": "Glenavon"
+      },
+      {
+         "data": "FK Trakai"
+      },
+      {
+         "data": "SP Tre Penne"
+      },
+      {
+         "data": "La Fiorita"
+      },
+      {
+         "data": "Drogheda United"
+      },
+      {
+         "data": "Bohemians Dublin"
+      },
+      {
+         "data": "Radnik Bijeljina"
+      },
+      {
+         "data": "Sloboda Tuzla"
+      },
+      {
+         "data": "Trans Narva"
+      },
+      {
+         "data": "Olimpic Sarajevo"
+      },
+      {
+         "data": "FK Borac Banja Luka"
+      },
+      {
+         "data": "Samtredia"
+      },
+      {
+         "data": "Bala Town"
+      },
+      {
+         "data": "Dinamo Batumi"
+      },
+      {
+         "data": "Spartak Tskhinvali"
+      },
+      {
+         "data": "FC Mika"
+      },
+      {
+         "data": "Sioni Bolnisi"
+      },
+      {
+         "data": "Airbus UK Broughton"
+      },
+      {
+         "data": "Europa FC"
+      },
+      {
+         "data": "Daugava Riga"
+      },
+      {
+         "data": "NSÍ Runavík"
+      },
+      {
+         "data": "FK Tauras"
+      },
+      {
+         "data": "Glentoran FC"
+      },
+      {
+         "data": "Portadown"
+      },
+      {
+         "data": "Sileks Kratovo"
+      },
+      {
+         "data": "Teteks Tetovo"
+      },
+      {
+         "data": "Kruoja Pakruojis"
+      },
+      {
+         "data": "Infonet Tallinn"
+      },
+      {
+         "data": "Balzan FC"
+      },
+      {
+         "data": "Bokelj Kotor"
+      },
+      {
+         "data": "Santos Tartu"
+      },
+      {
+         "data": "Sliema Wanderers"
+      },
+      {
+         "data": "Lovcen Cetinje"
+      },
+      {
+         "data": "Connah's Quay"
+      },
+      {
+         "data": "Newtown"
+      },
+      {
+         "data": "Bangor City FC"
+      },
+      {
+         "data": "Prestatyn Town"
+      },
+      {
+         "data": "UN Käerjeng"
+      },
+      {
+         "data": "UE Santa Coloma"
+      },
+      {
+         "data": "Progrès Niederkorn"
+      },
+      {
+         "data": "CS Grevenmacher"
+      },
+      {
+         "data": "IF Fuglafjørdur"
+      },
+      {
+         "data": "Banga Gargzdai"
+      },
+      {
+         "data": "FK Siauliai"
+      },
+      {
+         "data": "Folgore"
+      },
+      {
+         "data": "Floriana"
+      },
+      {
+         "data": "Llandudno FC"
+      },
+      {
+         "data": "Aberystwyth Town"
+      },
+      {
+         "data": "Cefn Druids"
+      },
+      {
+         "data": "Llanelli AFC"
+      },
+      {
+         "data": "Neath FC"
+      },
+      {
+         "data": "Libertas"
+      },
+      {
+         "data": "UE Sant Julià"
+      },
+      {
+         "data": "Juvenes Dogana"
+      },
+      {
+         "data": "College Europa"
+      },
+      {
+         "data": "SP Tre Fiori"
+      }
+   ]
+}
