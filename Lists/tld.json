@@ -1,0 +1,2596 @@
+{
+   "TLD": [
+      {
+         "data": ".com"
+      },
+      {
+         "data": ".org"
+      },
+      {
+         "data": ".net"
+      },
+      {
+         "data": ".int"
+      },
+      {
+         "data": ".edu"
+      },
+      {
+         "data": ".gov"
+      },
+      {
+         "data": ".mil"
+      },
+      {
+         "data": ".ac"
+      },
+      {
+         "data": ".ad"
+      },
+      {
+         "data": ".ae"
+      },
+      {
+         "data": ".af"
+      },
+      {
+         "data": ".ag"
+      },
+      {
+         "data": ".ai"
+      },
+      {
+         "data": ".al"
+      },
+      {
+         "data": ".am"
+      },
+      {
+         "data": ".an"
+      },
+      {
+         "data": ".ao"
+      },
+      {
+         "data": ".aq"
+      },
+      {
+         "data": ".ar"
+      },
+      {
+         "data": ".as"
+      },
+      {
+         "data": ".at"
+      },
+      {
+         "data": ".au"
+      },
+      {
+         "data": ".aw"
+      },
+      {
+         "data": ".ax"
+      },
+      {
+         "data": ".az"
+      },
+      {
+         "data": ".ba"
+      },
+      {
+         "data": ".bb"
+      },
+      {
+         "data": ".bd"
+      },
+      {
+         "data": ".be"
+      },
+      {
+         "data": ".bf"
+      },
+      {
+         "data": ".bg"
+      },
+      {
+         "data": ".bh"
+      },
+      {
+         "data": ".bi"
+      },
+      {
+         "data": ".bj"
+      },
+      {
+         "data": ".bl"
+      },
+      {
+         "data": ".bm"
+      },
+      {
+         "data": ".bn"
+      },
+      {
+         "data": ".bo"
+      },
+      {
+         "data": ".bq"
+      },
+      {
+         "data": ".br"
+      },
+      {
+         "data": ".bs"
+      },
+      {
+         "data": ".bt"
+      },
+      {
+         "data": ".bv"
+      },
+      {
+         "data": ".bw"
+      },
+      {
+         "data": ".by"
+      },
+      {
+         "data": ".bz"
+      },
+      {
+         "data": ".ca"
+      },
+      {
+         "data": ".cc"
+      },
+      {
+         "data": ".cd"
+      },
+      {
+         "data": ".cf"
+      },
+      {
+         "data": ".cg"
+      },
+      {
+         "data": ".ch"
+      },
+      {
+         "data": ".ci"
+      },
+      {
+         "data": ".ck"
+      },
+      {
+         "data": ".cl"
+      },
+      {
+         "data": ".cm"
+      },
+      {
+         "data": ".cn"
+      },
+      {
+         "data": ".co"
+      },
+      {
+         "data": ".cr"
+      },
+      {
+         "data": ".cu"
+      },
+      {
+         "data": ".cv"
+      },
+      {
+         "data": ".cw"
+      },
+      {
+         "data": ".cx"
+      },
+      {
+         "data": ".cy"
+      },
+      {
+         "data": ".cz"
+      },
+      {
+         "data": ".de"
+      },
+      {
+         "data": ".dj"
+      },
+      {
+         "data": ".dk"
+      },
+      {
+         "data": ".dm"
+      },
+      {
+         "data": ".do"
+      },
+      {
+         "data": ".dz"
+      },
+      {
+         "data": ".ec"
+      },
+      {
+         "data": ".ee"
+      },
+      {
+         "data": ".eg"
+      },
+      {
+         "data": ".eh"
+      },
+      {
+         "data": ".er"
+      },
+      {
+         "data": ".es"
+      },
+      {
+         "data": ".et"
+      },
+      {
+         "data": ".eu"
+      },
+      {
+         "data": ".fi"
+      },
+      {
+         "data": ".fj"
+      },
+      {
+         "data": ".fk"
+      },
+      {
+         "data": ".fm"
+      },
+      {
+         "data": ".fo"
+      },
+      {
+         "data": ".fr"
+      },
+      {
+         "data": ".ga"
+      },
+      {
+         "data": ".gb"
+      },
+      {
+         "data": ".gd"
+      },
+      {
+         "data": ".ge"
+      },
+      {
+         "data": ".gf"
+      },
+      {
+         "data": ".gg"
+      },
+      {
+         "data": ".gh"
+      },
+      {
+         "data": ".gi"
+      },
+      {
+         "data": ".gl"
+      },
+      {
+         "data": ".gm"
+      },
+      {
+         "data": ".gn"
+      },
+      {
+         "data": ".gp"
+      },
+      {
+         "data": ".gq"
+      },
+      {
+         "data": ".gr"
+      },
+      {
+         "data": ".gs"
+      },
+      {
+         "data": ".gt"
+      },
+      {
+         "data": ".gu"
+      },
+      {
+         "data": ".gw"
+      },
+      {
+         "data": ".gy"
+      },
+      {
+         "data": ".hk"
+      },
+      {
+         "data": ".hm"
+      },
+      {
+         "data": ".hn"
+      },
+      {
+         "data": ".hr"
+      },
+      {
+         "data": ".ht"
+      },
+      {
+         "data": ".hu"
+      },
+      {
+         "data": ".id"
+      },
+      {
+         "data": ".ie"
+      },
+      {
+         "data": ".il"
+      },
+      {
+         "data": ".im"
+      },
+      {
+         "data": ".in"
+      },
+      {
+         "data": ".io"
+      },
+      {
+         "data": ".iq"
+      },
+      {
+         "data": ".ir"
+      },
+      {
+         "data": ".is"
+      },
+      {
+         "data": ".it"
+      },
+      {
+         "data": ".je"
+      },
+      {
+         "data": ".jm"
+      },
+      {
+         "data": ".jo"
+      },
+      {
+         "data": ".jp"
+      },
+      {
+         "data": ".ke"
+      },
+      {
+         "data": ".kg"
+      },
+      {
+         "data": ".kh"
+      },
+      {
+         "data": ".ki"
+      },
+      {
+         "data": ".km"
+      },
+      {
+         "data": ".kn"
+      },
+      {
+         "data": ".kp"
+      },
+      {
+         "data": ".kr"
+      },
+      {
+         "data": ".kw"
+      },
+      {
+         "data": ".ky"
+      },
+      {
+         "data": ".kz"
+      },
+      {
+         "data": ".la"
+      },
+      {
+         "data": ".lb"
+      },
+      {
+         "data": ".lc"
+      },
+      {
+         "data": ".li"
+      },
+      {
+         "data": ".lk"
+      },
+      {
+         "data": ".lr"
+      },
+      {
+         "data": ".ls"
+      },
+      {
+         "data": ".lt"
+      },
+      {
+         "data": ".lu"
+      },
+      {
+         "data": ".lv"
+      },
+      {
+         "data": ".ly"
+      },
+      {
+         "data": ".ma"
+      },
+      {
+         "data": ".mc"
+      },
+      {
+         "data": ".md"
+      },
+      {
+         "data": ".me"
+      },
+      {
+         "data": ".mf"
+      },
+      {
+         "data": ".mg"
+      },
+      {
+         "data": ".mh"
+      },
+      {
+         "data": ".mk"
+      },
+      {
+         "data": ".ml"
+      },
+      {
+         "data": ".mm"
+      },
+      {
+         "data": ".mn"
+      },
+      {
+         "data": ".mo"
+      },
+      {
+         "data": ".mp"
+      },
+      {
+         "data": ".mq"
+      },
+      {
+         "data": ".mr"
+      },
+      {
+         "data": ".ms"
+      },
+      {
+         "data": ".mt"
+      },
+      {
+         "data": ".mu"
+      },
+      {
+         "data": ".mv"
+      },
+      {
+         "data": ".mw"
+      },
+      {
+         "data": ".mx"
+      },
+      {
+         "data": ".my"
+      },
+      {
+         "data": ".mz"
+      },
+      {
+         "data": ".na"
+      },
+      {
+         "data": ".nc"
+      },
+      {
+         "data": ".ne"
+      },
+      {
+         "data": ".nf"
+      },
+      {
+         "data": ".ng"
+      },
+      {
+         "data": ".ni"
+      },
+      {
+         "data": ".nl"
+      },
+      {
+         "data": ".no"
+      },
+      {
+         "data": ".np"
+      },
+      {
+         "data": ".nr"
+      },
+      {
+         "data": ".nu"
+      },
+      {
+         "data": ".nz"
+      },
+      {
+         "data": ".om"
+      },
+      {
+         "data": ".pa"
+      },
+      {
+         "data": ".pe"
+      },
+      {
+         "data": ".pf"
+      },
+      {
+         "data": ".pg"
+      },
+      {
+         "data": ".ph"
+      },
+      {
+         "data": ".pk"
+      },
+      {
+         "data": ".pl"
+      },
+      {
+         "data": ".pm"
+      },
+      {
+         "data": ".pn"
+      },
+      {
+         "data": ".pr"
+      },
+      {
+         "data": ".ps"
+      },
+      {
+         "data": ".pt"
+      },
+      {
+         "data": ".pw"
+      },
+      {
+         "data": ".py"
+      },
+      {
+         "data": ".qa"
+      },
+      {
+         "data": ".re"
+      },
+      {
+         "data": ".ro"
+      },
+      {
+         "data": ".rs"
+      },
+      {
+         "data": ".ru"
+      },
+      {
+         "data": ".rw"
+      },
+      {
+         "data": ".sa"
+      },
+      {
+         "data": ".sb"
+      },
+      {
+         "data": ".sc"
+      },
+      {
+         "data": ".sd"
+      },
+      {
+         "data": ".se"
+      },
+      {
+         "data": ".sg"
+      },
+      {
+         "data": ".sh"
+      },
+      {
+         "data": ".si"
+      },
+      {
+         "data": ".sj"
+      },
+      {
+         "data": ".sk"
+      },
+      {
+         "data": ".sl"
+      },
+      {
+         "data": ".sm"
+      },
+      {
+         "data": ".sn"
+      },
+      {
+         "data": ".so"
+      },
+      {
+         "data": ".sr"
+      },
+      {
+         "data": ".ss"
+      },
+      {
+         "data": ".st"
+      },
+      {
+         "data": ".su"
+      },
+      {
+         "data": ".sv"
+      },
+      {
+         "data": ".sx"
+      },
+      {
+         "data": ".sy"
+      },
+      {
+         "data": ".sz"
+      },
+      {
+         "data": ".tc"
+      },
+      {
+         "data": ".td"
+      },
+      {
+         "data": ".tf"
+      },
+      {
+         "data": ".tg"
+      },
+      {
+         "data": ".th"
+      },
+      {
+         "data": ".tj"
+      },
+      {
+         "data": ".tk"
+      },
+      {
+         "data": ".tl"
+      },
+      {
+         "data": ".tm"
+      },
+      {
+         "data": ".tn"
+      },
+      {
+         "data": ".to"
+      },
+      {
+         "data": ".tp"
+      },
+      {
+         "data": ".tr"
+      },
+      {
+         "data": ".tt"
+      },
+      {
+         "data": ".tv"
+      },
+      {
+         "data": ".tw"
+      },
+      {
+         "data": ".tz"
+      },
+      {
+         "data": ".ua"
+      },
+      {
+         "data": ".ug"
+      },
+      {
+         "data": ".uk"
+      },
+      {
+         "data": ".um"
+      },
+      {
+         "data": ".us"
+      },
+      {
+         "data": ".uy"
+      },
+      {
+         "data": ".uz"
+      },
+      {
+         "data": ".va"
+      },
+      {
+         "data": ".vc"
+      },
+      {
+         "data": ".ve"
+      },
+      {
+         "data": ".vg"
+      },
+      {
+         "data": ".vi"
+      },
+      {
+         "data": ".vn"
+      },
+      {
+         "data": ".vu"
+      },
+      {
+         "data": ".wf"
+      },
+      {
+         "data": ".ws"
+      },
+      {
+         "data": ".ye"
+      },
+      {
+         "data": ".yt"
+      },
+      {
+         "data": ".za"
+      },
+      {
+         "data": ".zm"
+      },
+      {
+         "data": ".zw"
+      },
+      {
+         "data": ".academy"
+      },
+      {
+         "data": ".accountant"
+      },
+      {
+         "data": ".accountants"
+      },
+      {
+         "data": ".active"
+      },
+      {
+         "data": ".actor"
+      },
+      {
+         "data": ".ads"
+      },
+      {
+         "data": ".adult"
+      },
+      {
+         "data": ".aero"
+      },
+      {
+         "data": ".agency"
+      },
+      {
+         "data": ".airforce"
+      },
+      {
+         "data": ".apartments"
+      },
+      {
+         "data": ".app"
+      },
+      {
+         "data": ".archi"
+      },
+      {
+         "data": ".army"
+      },
+      {
+         "data": ".art"
+      },
+      {
+         "data": ".associates"
+      },
+      {
+         "data": ".attorney"
+      },
+      {
+         "data": ".auction"
+      },
+      {
+         "data": ".audible"
+      },
+      {
+         "data": ".audio"
+      },
+      {
+         "data": ".author"
+      },
+      {
+         "data": ".auto"
+      },
+      {
+         "data": ".autos"
+      },
+      {
+         "data": ".aws"
+      },
+      {
+         "data": ".baby"
+      },
+      {
+         "data": ".band"
+      },
+      {
+         "data": ".bar"
+      },
+      {
+         "data": ".barefoot"
+      },
+      {
+         "data": ".bargains"
+      },
+      {
+         "data": ".baseball"
+      },
+      {
+         "data": ".beauty"
+      },
+      {
+         "data": ".beer"
+      },
+      {
+         "data": ".best"
+      },
+      {
+         "data": ".bestbuy"
+      },
+      {
+         "data": ".bet"
+      },
+      {
+         "data": ".bid"
+      },
+      {
+         "data": ".bike"
+      },
+      {
+         "data": ".bingo"
+      },
+      {
+         "data": ".bio"
+      },
+      {
+         "data": ".biz"
+      },
+      {
+         "data": ".black"
+      },
+      {
+         "data": ".blackfriday"
+      },
+      {
+         "data": ".blockbuster"
+      },
+      {
+         "data": ".blog"
+      },
+      {
+         "data": ".blue"
+      },
+      {
+         "data": ".boo"
+      },
+      {
+         "data": ".book"
+      },
+      {
+         "data": ".bot"
+      },
+      {
+         "data": ".boutique"
+      },
+      {
+         "data": ".box"
+      },
+      {
+         "data": ".broker"
+      },
+      {
+         "data": ".build"
+      },
+      {
+         "data": ".builders"
+      },
+      {
+         "data": ".business"
+      },
+      {
+         "data": ".buy"
+      },
+      {
+         "data": ".buzz"
+      },
+      {
+         "data": ".cab"
+      },
+      {
+         "data": ".cafe"
+      },
+      {
+         "data": ".call"
+      },
+      {
+         "data": ".cam"
+      },
+      {
+         "data": ".camera"
+      },
+      {
+         "data": ".camp"
+      },
+      {
+         "data": ".cancerresearch"
+      },
+      {
+         "data": ".capital"
+      },
+      {
+         "data": ".cards"
+      },
+      {
+         "data": ".care"
+      },
+      {
+         "data": ".career"
+      },
+      {
+         "data": ".careers"
+      },
+      {
+         "data": ".cars"
+      },
+      {
+         "data": ".case"
+      },
+      {
+         "data": ".cash"
+      },
+      {
+         "data": ".casino"
+      },
+      {
+         "data": ".catering"
+      },
+      {
+         "data": ".catholic"
+      },
+      {
+         "data": ".center"
+      },
+      {
+         "data": ".ceo"
+      },
+      {
+         "data": ".cfd"
+      },
+      {
+         "data": ".channel"
+      },
+      {
+         "data": ".chat"
+      },
+      {
+         "data": ".cheap"
+      },
+      {
+         "data": ".christmas"
+      },
+      {
+         "data": ".church"
+      },
+      {
+         "data": ".circle"
+      },
+      {
+         "data": ".city"
+      },
+      {
+         "data": ".claims"
+      },
+      {
+         "data": ".cleaning"
+      },
+      {
+         "data": ".click"
+      },
+      {
+         "data": ".clinic"
+      },
+      {
+         "data": ".clothing"
+      },
+      {
+         "data": ".cloud"
+      },
+      {
+         "data": ".club"
+      },
+      {
+         "data": ".coach"
+      },
+      {
+         "data": ".codes"
+      },
+      {
+         "data": ".coffee"
+      },
+      {
+         "data": ".college"
+      },
+      {
+         "data": ".community"
+      },
+      {
+         "data": ".company"
+      },
+      {
+         "data": ".computer"
+      },
+      {
+         "data": ".condos"
+      },
+      {
+         "data": ".construction"
+      },
+      {
+         "data": ".consulting"
+      },
+      {
+         "data": ".contact"
+      },
+      {
+         "data": ".contractors"
+      },
+      {
+         "data": ".cooking"
+      },
+      {
+         "data": ".cool"
+      },
+      {
+         "data": ".coop"
+      },
+      {
+         "data": ".country"
+      },
+      {
+         "data": ".coupon"
+      },
+      {
+         "data": ".coupons"
+      },
+      {
+         "data": ".courses"
+      },
+      {
+         "data": ".credit"
+      },
+      {
+         "data": ".creditcard"
+      },
+      {
+         "data": ".cricket"
+      },
+      {
+         "data": ".cruises"
+      },
+      {
+         "data": ".dad"
+      },
+      {
+         "data": ".dance"
+      },
+      {
+         "data": ".date"
+      },
+      {
+         "data": ".dating"
+      },
+      {
+         "data": ".day"
+      },
+      {
+         "data": ".deal"
+      },
+      {
+         "data": ".deals"
+      },
+      {
+         "data": ".degree"
+      },
+      {
+         "data": ".delivery"
+      },
+      {
+         "data": ".democrat"
+      },
+      {
+         "data": ".dental"
+      },
+      {
+         "data": ".dentist"
+      },
+      {
+         "data": ".design"
+      },
+      {
+         "data": ".dev"
+      },
+      {
+         "data": ".diamonds"
+      },
+      {
+         "data": ".diet"
+      },
+      {
+         "data": ".digital"
+      },
+      {
+         "data": ".direct"
+      },
+      {
+         "data": ".directory"
+      },
+      {
+         "data": ".discount"
+      },
+      {
+         "data": ".diy"
+      },
+      {
+         "data": ".doctor"
+      },
+      {
+         "data": ".dog"
+      },
+      {
+         "data": ".domains"
+      },
+      {
+         "data": ".download"
+      },
+      {
+         "data": ".duck"
+      },
+      {
+         "data": ".earth"
+      },
+      {
+         "data": ".eat"
+      },
+      {
+         "data": ".eco"
+      },
+      {
+         "data": ".education"
+      },
+      {
+         "data": ".email"
+      },
+      {
+         "data": ".energy"
+      },
+      {
+         "data": ".engineer"
+      },
+      {
+         "data": ".engineering"
+      },
+      {
+         "data": ".equipment"
+      },
+      {
+         "data": ".esq"
+      },
+      {
+         "data": ".estate"
+      },
+      {
+         "data": ".events"
+      },
+      {
+         "data": ".exchange"
+      },
+      {
+         "data": ".expert"
+      },
+      {
+         "data": ".exposed"
+      },
+      {
+         "data": ".express"
+      },
+      {
+         "data": ".fail"
+      },
+      {
+         "data": ".faith"
+      },
+      {
+         "data": ".family"
+      },
+      {
+         "data": ".fan"
+      },
+      {
+         "data": ".fans"
+      },
+      {
+         "data": ".farm"
+      },
+      {
+         "data": ".fashion"
+      },
+      {
+         "data": ".fast"
+      },
+      {
+         "data": ".feedback"
+      },
+      {
+         "data": ".film"
+      },
+      {
+         "data": ".final"
+      },
+      {
+         "data": ".finance"
+      },
+      {
+         "data": ".financial"
+      },
+      {
+         "data": ".fire"
+      },
+      {
+         "data": ".fish"
+      },
+      {
+         "data": ".fishing"
+      },
+      {
+         "data": ".fit"
+      },
+      {
+         "data": ".fitness"
+      },
+      {
+         "data": ".flights"
+      },
+      {
+         "data": ".florist"
+      },
+      {
+         "data": ".flowers"
+      },
+      {
+         "data": ".fly"
+      },
+      {
+         "data": ".foo"
+      },
+      {
+         "data": ".food"
+      },
+      {
+         "data": ".foodnetwork"
+      },
+      {
+         "data": ".football"
+      },
+      {
+         "data": ".forsale"
+      },
+      {
+         "data": ".forum"
+      },
+      {
+         "data": ".foundation"
+      },
+      {
+         "data": ".free"
+      },
+      {
+         "data": ".frontdoor"
+      },
+      {
+         "data": ".fun"
+      },
+      {
+         "data": ".fund"
+      },
+      {
+         "data": ".furniture"
+      },
+      {
+         "data": ".fyi"
+      },
+      {
+         "data": ".gallery"
+      },
+      {
+         "data": ".game"
+      },
+      {
+         "data": ".games"
+      },
+      {
+         "data": ".garden"
+      },
+      {
+         "data": ".gift"
+      },
+      {
+         "data": ".gifts"
+      },
+      {
+         "data": ".gives"
+      },
+      {
+         "data": ".glass"
+      },
+      {
+         "data": ".global"
+      },
+      {
+         "data": ".gold"
+      },
+      {
+         "data": ".golf"
+      },
+      {
+         "data": ".gop"
+      },
+      {
+         "data": ".graphics"
+      },
+      {
+         "data": ".green"
+      },
+      {
+         "data": ".gripe"
+      },
+      {
+         "data": ".group"
+      },
+      {
+         "data": ".guide"
+      },
+      {
+         "data": ".guitars"
+      },
+      {
+         "data": ".guru"
+      },
+      {
+         "data": ".hair"
+      },
+      {
+         "data": ".hangout"
+      },
+      {
+         "data": ".health"
+      },
+      {
+         "data": ".healthcare"
+      },
+      {
+         "data": ".help"
+      },
+      {
+         "data": ".here"
+      },
+      {
+         "data": ".hiphop"
+      },
+      {
+         "data": ".hiv"
+      },
+      {
+         "data": ".hockey"
+      },
+      {
+         "data": ".holdings"
+      },
+      {
+         "data": ".holiday"
+      },
+      {
+         "data": ".homegoods"
+      },
+      {
+         "data": ".homes"
+      },
+      {
+         "data": ".homesense"
+      },
+      {
+         "data": ".horse"
+      },
+      {
+         "data": ".host"
+      },
+      {
+         "data": ".hosting"
+      },
+      {
+         "data": ".hot"
+      },
+      {
+         "data": ".house"
+      },
+      {
+         "data": ".how"
+      },
+      {
+         "data": ".ice"
+      },
+      {
+         "data": ".info"
+      },
+      {
+         "data": ".ing"
+      },
+      {
+         "data": ".ink"
+      },
+      {
+         "data": ".institute"
+      },
+      {
+         "data": ".insurance"
+      },
+      {
+         "data": ".insure"
+      },
+      {
+         "data": ".international"
+      },
+      {
+         "data": ".investments"
+      },
+      {
+         "data": ".jewelry"
+      },
+      {
+         "data": ".jobs"
+      },
+      {
+         "data": ".joy"
+      },
+      {
+         "data": ".kim"
+      },
+      {
+         "data": ".kitchen"
+      },
+      {
+         "data": ".land"
+      },
+      {
+         "data": ".latino"
+      },
+      {
+         "data": ".law"
+      },
+      {
+         "data": ".lawyer"
+      },
+      {
+         "data": ".lease"
+      },
+      {
+         "data": ".legal"
+      },
+      {
+         "data": ".lgbt"
+      },
+      {
+         "data": ".life"
+      },
+      {
+         "data": ".lifeinsurance"
+      },
+      {
+         "data": ".lighting"
+      },
+      {
+         "data": ".like"
+      },
+      {
+         "data": ".limited"
+      },
+      {
+         "data": ".limo"
+      },
+      {
+         "data": ".link"
+      },
+      {
+         "data": ".live"
+      },
+      {
+         "data": ".living"
+      },
+      {
+         "data": ".loan"
+      },
+      {
+         "data": ".loans"
+      },
+      {
+         "data": ".locker"
+      },
+      {
+         "data": ".lol"
+      },
+      {
+         "data": ".lotto"
+      },
+      {
+         "data": ".love"
+      },
+      {
+         "data": ".luxe"
+      },
+      {
+         "data": ".luxury"
+      },
+      {
+         "data": ".makeup"
+      },
+      {
+         "data": ".management"
+      },
+      {
+         "data": ".market"
+      },
+      {
+         "data": ".marketing"
+      },
+      {
+         "data": ".markets"
+      },
+      {
+         "data": ".mba"
+      },
+      {
+         "data": ".media"
+      },
+      {
+         "data": ".meet"
+      },
+      {
+         "data": ".meme"
+      },
+      {
+         "data": ".memorial"
+      },
+      {
+         "data": ".men"
+      },
+      {
+         "data": ".menu"
+      },
+      {
+         "data": ".mint"
+      },
+      {
+         "data": ".mobi"
+      },
+      {
+         "data": ".mobily"
+      },
+      {
+         "data": ".moe"
+      },
+      {
+         "data": ".money"
+      },
+      {
+         "data": ".mortgage"
+      },
+      {
+         "data": ".motorcycles"
+      },
+      {
+         "data": ".mov"
+      },
+      {
+         "data": ".movie"
+      },
+      {
+         "data": ".museum"
+      },
+      {
+         "data": ".name"
+      },
+      {
+         "data": ".navy"
+      },
+      {
+         "data": ".network"
+      },
+      {
+         "data": ".new"
+      },
+      {
+         "data": ".news"
+      },
+      {
+         "data": ".ngo"
+      },
+      {
+         "data": ".ninja"
+      },
+      {
+         "data": ".now"
+      },
+      {
+         "data": ".off"
+      },
+      {
+         "data": ".one"
+      },
+      {
+         "data": ".ong"
+      },
+      {
+         "data": ".onl"
+      },
+      {
+         "data": ".online"
+      },
+      {
+         "data": ".ooo"
+      },
+      {
+         "data": ".open"
+      },
+      {
+         "data": ".organic"
+      },
+      {
+         "data": ".origins"
+      },
+      {
+         "data": ".page"
+      },
+      {
+         "data": ".partners"
+      },
+      {
+         "data": ".parts"
+      },
+      {
+         "data": ".party"
+      },
+      {
+         "data": ".pay"
+      },
+      {
+         "data": ".pet"
+      },
+      {
+         "data": ".pharmacy"
+      },
+      {
+         "data": ".photo"
+      },
+      {
+         "data": ".photography"
+      },
+      {
+         "data": ".photos"
+      },
+      {
+         "data": ".physio"
+      },
+      {
+         "data": ".pics"
+      },
+      {
+         "data": ".pictures"
+      },
+      {
+         "data": ".pid"
+      },
+      {
+         "data": ".pin"
+      },
+      {
+         "data": ".pink"
+      },
+      {
+         "data": ".pizza"
+      },
+      {
+         "data": ".place"
+      },
+      {
+         "data": ".plumbing"
+      },
+      {
+         "data": ".plus"
+      },
+      {
+         "data": ".poker"
+      },
+      {
+         "data": ".porn"
+      },
+      {
+         "data": ".post"
+      },
+      {
+         "data": ".press"
+      },
+      {
+         "data": ".prime"
+      },
+      {
+         "data": ".pro"
+      },
+      {
+         "data": ".productions"
+      },
+      {
+         "data": ".prof"
+      },
+      {
+         "data": ".promo"
+      },
+      {
+         "data": ".properties"
+      },
+      {
+         "data": ".property"
+      },
+      {
+         "data": ".protection"
+      },
+      {
+         "data": ".qpon"
+      },
+      {
+         "data": ".racing"
+      },
+      {
+         "data": ".radio"
+      },
+      {
+         "data": ".read"
+      },
+      {
+         "data": ".realestate"
+      },
+      {
+         "data": ".realty"
+      },
+      {
+         "data": ".recipes"
+      },
+      {
+         "data": ".red"
+      },
+      {
+         "data": ".rehab"
+      },
+      {
+         "data": ".ren"
+      },
+      {
+         "data": ".rent"
+      },
+      {
+         "data": ".rentals"
+      },
+      {
+         "data": ".repair"
+      },
+      {
+         "data": ".report"
+      },
+      {
+         "data": ".republican"
+      },
+      {
+         "data": ".rest"
+      },
+      {
+         "data": ".review"
+      },
+      {
+         "data": ".reviews"
+      },
+      {
+         "data": ".rich"
+      },
+      {
+         "data": ".rip"
+      },
+      {
+         "data": ".rocks"
+      },
+      {
+         "data": ".rodeo"
+      },
+      {
+         "data": ".room"
+      },
+      {
+         "data": ".rsvp"
+      },
+      {
+         "data": ".run"
+      },
+      {
+         "data": ".safe"
+      },
+      {
+         "data": ".sale"
+      },
+      {
+         "data": ".save"
+      },
+      {
+         "data": ".scholarships"
+      },
+      {
+         "data": ".school"
+      },
+      {
+         "data": ".science"
+      },
+      {
+         "data": ".secure"
+      },
+      {
+         "data": ".security"
+      },
+      {
+         "data": ".select"
+      },
+      {
+         "data": ".services"
+      },
+      {
+         "data": ".sex"
+      },
+      {
+         "data": ".sexy"
+      },
+      {
+         "data": ".shoes"
+      },
+      {
+         "data": ".shop"
+      },
+      {
+         "data": ".shopping"
+      },
+      {
+         "data": ".show"
+      },
+      {
+         "data": ".showtime"
+      },
+      {
+         "data": ".silk"
+      },
+      {
+         "data": ".singles"
+      },
+      {
+         "data": ".site"
+      },
+      {
+         "data": ".ski"
+      },
+      {
+         "data": ".skin"
+      },
+      {
+         "data": ".sky"
+      },
+      {
+         "data": ".smile"
+      },
+      {
+         "data": ".soccer"
+      },
+      {
+         "data": ".social"
+      },
+      {
+         "data": ".software"
+      },
+      {
+         "data": ".solar"
+      },
+      {
+         "data": ".solutions"
+      },
+      {
+         "data": ".song"
+      },
+      {
+         "data": ".space"
+      },
+      {
+         "data": ".spot"
+      },
+      {
+         "data": ".spreadbetting"
+      },
+      {
+         "data": ".store"
+      },
+      {
+         "data": ".stream"
+      },
+      {
+         "data": ".studio"
+      },
+      {
+         "data": ".study"
+      },
+      {
+         "data": ".style"
+      },
+      {
+         "data": ".sucks"
+      },
+      {
+         "data": ".supplies"
+      },
+      {
+         "data": ".supply"
+      },
+      {
+         "data": ".support"
+      },
+      {
+         "data": ".surf"
+      },
+      {
+         "data": ".surgery"
+      },
+      {
+         "data": ".systems"
+      },
+      {
+         "data": ".talk"
+      },
+      {
+         "data": ".tattoo"
+      },
+      {
+         "data": ".tax"
+      },
+      {
+         "data": ".taxi"
+      },
+      {
+         "data": ".team"
+      },
+      {
+         "data": ".tech"
+      },
+      {
+         "data": ".technology"
+      },
+      {
+         "data": ".tel"
+      },
+      {
+         "data": ".tennis"
+      },
+      {
+         "data": ".theater"
+      },
+      {
+         "data": ".theatre"
+      },
+      {
+         "data": ".tickets"
+      },
+      {
+         "data": ".tips"
+      },
+      {
+         "data": ".tires"
+      },
+      {
+         "data": ".today"
+      },
+      {
+         "data": ".tools"
+      },
+      {
+         "data": ".top"
+      },
+      {
+         "data": ".tours"
+      },
+      {
+         "data": ".town"
+      },
+      {
+         "data": ".toys"
+      },
+      {
+         "data": ".trade"
+      },
+      {
+         "data": ".trading"
+      },
+      {
+         "data": ".training"
+      },
+      {
+         "data": ".travel"
+      },
+      {
+         "data": ".travelersinsurance"
+      },
+      {
+         "data": ".trust"
+      },
+      {
+         "data": ".tube"
+      },
+      {
+         "data": ".tunes"
+      },
+      {
+         "data": ".university"
+      },
+      {
+         "data": ".vacations"
+      },
+      {
+         "data": ".vet"
+      },
+      {
+         "data": ".video"
+      },
+      {
+         "data": ".villas"
+      },
+      {
+         "data": ".vip"
+      },
+      {
+         "data": ".vision"
+      },
+      {
+         "data": ".vodka"
+      },
+      {
+         "data": ".vote"
+      },
+      {
+         "data": ".voting"
+      },
+      {
+         "data": ".voyage"
+      },
+      {
+         "data": ".wang"
+      },
+      {
+         "data": ".watch"
+      },
+      {
+         "data": ".watches"
+      },
+      {
+         "data": ".weather"
+      },
+      {
+         "data": ".webcam"
+      },
+      {
+         "data": ".website"
+      },
+      {
+         "data": ".wed"
+      },
+      {
+         "data": ".wedding"
+      },
+      {
+         "data": ".whoswho"
+      },
+      {
+         "data": ".wiki"
+      },
+      {
+         "data": ".win"
+      },
+      {
+         "data": ".wine"
+      },
+      {
+         "data": ".winners"
+      },
+      {
+         "data": ".work"
+      },
+      {
+         "data": ".works"
+      },
+      {
+         "data": ".world"
+      },
+      {
+         "data": ".wow"
+      },
+      {
+         "data": ".wtf"
+      },
+      {
+         "data": ".xxx"
+      },
+      {
+         "data": ".xyz"
+      },
+      {
+         "data": ".yoga"
+      },
+      {
+         "data": ".you"
+      },
+      {
+         "data": ".zero"
+      },
+      {
+         "data": ".zone"
+      },
+      {
+         "data": ".shouji"
+      },
+      {
+         "data": ".tushu"
+      },
+      {
+         "data": ".wanggou"
+      },
+      {
+         "data": ".weibo"
+      },
+      {
+         "data": ".xihuan"
+      },
+      {
+         "data": ".maison"
+      },
+      {
+         "data": ".sarl"
+      },
+      {
+         "data": ".epost"
+      },
+      {
+         "data": ".gmbh"
+      },
+      {
+         "data": ".haus"
+      },
+      {
+         "data": ".immobilien"
+      },
+      {
+         "data": ".jetzt"
+      },
+      {
+         "data": ".kaufen"
+      },
+      {
+         "data": ".kinder"
+      },
+      {
+         "data": ".reise"
+      },
+      {
+         "data": ".reisen"
+      },
+      {
+         "data": ".schule"
+      },
+      {
+         "data": ".versicherung"
+      },
+      {
+         "data": ".desi"
+      },
+      {
+         "data": ".shiksha"
+      },
+      {
+         "data": ".casa"
+      },
+      {
+         "data": ".immo"
+      },
+      {
+         "data": ".moda"
+      },
+      {
+         "data": ".voto"
+      },
+      {
+         "data": ".bom"
+      },
+      {
+         "data": ".passagens"
+      },
+      {
+         "data": ".abogado"
+      },
+      {
+         "data": ".gratis"
+      },
+      {
+         "data": ".futbol"
+      },
+      {
+         "data": ".hoteles"
+      },
+      {
+         "data": ".juegos"
+      },
+      {
+         "data": ".ltda"
+      },
+      {
+         "data": ".soy"
+      },
+      {
+         "data": ".tienda"
+      },
+      {
+         "data": ".uno"
+      },
+      {
+         "data": ".viajes"
+      },
+      {
+         "data": ".vuelos"
+      },
+      {
+         "data": ".bar"
+      },
+      {
+         "data": ".bank"
+      },
+      {
+         "data": ".coop"
+      },
+      {
+         "data": ".enterprises"
+      },
+      {
+         "data": ".industries"
+      },
+      {
+         "data": ".institute"
+      },
+      {
+         "data": ".pharmacy"
+      },
+      {
+         "data": ".realtor"
+      },
+      {
+         "data": ".reit"
+      },
+      {
+         "data": ".rest"
+      },
+      {
+         "data": ".restaurant"
+      },
+      {
+         "data": ".ventures"
+      },
+      {
+         "data": ".capetown"
+      },
+      {
+         "data": ".durban"
+      },
+      {
+         "data": ".joburg"
+      },
+      {
+         "data": ".abudhabi"
+      },
+      {
+         "data": ".asia"
+      },
+      {
+         "data": ".doha"
+      },
+      {
+         "data": ".dubai"
+      },
+      {
+         "data": ".krd"
+      },
+      {
+         "data": ".kyoto"
+      },
+      {
+         "data": ".nagoya"
+      },
+      {
+         "data": ".okinawa"
+      },
+      {
+         "data": ".osaka"
+      },
+      {
+         "data": ".ryukyu"
+      },
+      {
+         "data": ".taipei"
+      },
+      {
+         "data": ".tatar"
+      },
+      {
+         "data": ".tokyo"
+      },
+      {
+         "data": ".yokohama"
+      },
+      {
+         "data": ".alsace"
+      },
+      {
+         "data": ".amsterdam"
+      },
+      {
+         "data": ".bcn"
+      },
+      {
+         "data": ".barcelona"
+      },
+      {
+         "data": ".bayern"
+      },
+      {
+         "data": ".berlin"
+      },
+      {
+         "data": ".brussels"
+      },
+      {
+         "data": ".budapest"
+      },
+      {
+         "data": ".bzh"
+      },
+      {
+         "data": ".cat"
+      },
+      {
+         "data": ".cologne"
+      },
+      {
+         "data": ".corsica"
+      },
+      {
+         "data": ".cymru"
+      },
+      {
+         "data": ".eus"
+      },
+      {
+         "data": ".frl"
+      },
+      {
+         "data": ".gal"
+      },
+      {
+         "data": ".gent"
+      },
+      {
+         "data": ".hamburg"
+      },
+      {
+         "data": ".helsinki"
+      },
+      {
+         "data": ".irish"
+      },
+      {
+         "data": ".ist"
+      },
+      {
+         "data": ".istanbul"
+      },
+      {
+         "data": ".koeln"
+      },
+      {
+         "data": ".london"
+      },
+      {
+         "data": ".madrid"
+      },
+      {
+         "data": ".moscow"
+      },
+      {
+         "data": ".nrw"
+      },
+      {
+         "data": ".paris"
+      },
+      {
+         "data": ".ruhr"
+      },
+      {
+         "data": ".saarland"
+      },
+      {
+         "data": ".scot"
+      },
+      {
+         "data": ".stockholm"
+      },
+      {
+         "data": ".swiss"
+      },
+      {
+         "data": ".tirol"
+      },
+      {
+         "data": "vlaanderen"
+      },
+      {
+         "data": ".wales"
+      },
+      {
+         "data": ".wien"
+      },
+      {
+         "data": ".zuerich"
+      },
+      {
+         "data": ".boston"
+      },
+      {
+         "data": ".miami"
+      },
+      {
+         "data": ".nyc"
+      },
+      {
+         "data": ".quebec"
+      },
+      {
+         "data": ".vegas"
+      },
+      {
+         "data": ".kiwi"
+      },
+      {
+         "data": ".melbourne"
+      },
+      {
+         "data": ".sydney"
+      },
+      {
+         "data": ".lat"
+      },
+      {
+         "data": ".rio"
+      },
+      {
+         "data": ".aaa"
+      },
+      {
+         "data": ".abarth"
+      },
+      {
+         "data": ".abb"
+      },
+      {
+         "data": ".aeg"
+      },
+      {
+         "data": ".afl"
+      },
+      {
+         "data": ".aig"
+      },
+      {
+         "data": ".airtel"
+      },
+      {
+         "data": ".americanexpress"
+      },
+      {
+         "data": ".bbc"
+      },
+      {
+         "data": ".bentley"
+      },
+      {
+         "data": ".example"
+      },
+      {
+         "data": ".invalid"
+      },
+      {
+         "data": ".local"
+      },
+      {
+         "data": ".localhost"
+      },
+      {
+         "data": ".onion"
+      },
+      {
+         "data": ".test"
+      }
+   ]
+}
