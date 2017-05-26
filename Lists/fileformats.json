@@ -1,0 +1,376 @@
+{
+   "File Formats": [
+      {
+         "data": ".aif"
+      },
+      {
+         "data": ".cda"
+      },
+      {
+         "data": ".mid"
+      },
+      {
+         "data": ".mp3"
+      },
+      {
+         "data": ".mpa"
+      },
+      {
+         "data": ".ogg"
+      },
+      {
+         "data": ".wav"
+      },
+      {
+         "data": ".wma"
+      },
+      {
+         "data": ".wpl"
+      },
+      {
+         "data": ".7z"
+      },
+      {
+         "data": ".arj"
+      },
+      {
+         "data": ".deb"
+      },
+      {
+         "data": ".pkg"
+      },
+      {
+         "data": ".rar"
+      },
+      {
+         "data": ".rpm"
+      },
+      {
+         "data": ".tar.gz"
+      },
+      {
+         "data": ".z"
+      },
+      {
+         "data": ".zip"
+      },
+      {
+         "data": ".bin"
+      },
+      {
+         "data": ".dmg"
+      },
+      {
+         "data": ".iso"
+      },
+      {
+         "data": ".toast"
+      },
+      {
+         "data": ".vcd"
+      },
+      {
+         "data": ".csv"
+      },
+      {
+         "data": ".dat"
+      },
+      {
+         "data": ".db"
+      },
+      {
+         "data": ".log"
+      },
+      {
+         "data": ".mdb"
+      },
+      {
+         "data": ".sav"
+      },
+      {
+         "data": ".sql"
+      },
+      {
+         "data": ".tar"
+      },
+      {
+         "data": ".xml"
+      },
+      {
+         "data": ".apk"
+      },
+      {
+         "data": ".bat"
+      },
+      {
+         "data": ".bin"
+      },
+      {
+         "data": ".cgi"
+      },
+      {
+         "data": ".com"
+      },
+      {
+         "data": ".exe"
+      },
+      {
+         "data": ".gadget"
+      },
+      {
+         "data": ".jar"
+      },
+      {
+         "data": ".py"
+      },
+      {
+         "data": ".wsf"
+      },
+      {
+         "data": ".fnt"
+      },
+      {
+         "data": ".fon"
+      },
+      {
+         "data": ".otf"
+      },
+      {
+         "data": ".ttf"
+      },
+      {
+         "data": ".ai"
+      },
+      {
+         "data": ".bmp"
+      },
+      {
+         "data": ".gif"
+      },
+      {
+         "data": ".ico"
+      },
+      {
+         "data": ".jpeg"
+      },
+      {
+         "data": ".png"
+      },
+      {
+         "data": ".ps"
+      },
+      {
+         "data": ".psd"
+      },
+      {
+         "data": ".svg"
+      },
+      {
+         "data": ".tif"
+      },
+      {
+         "data": ".asp"
+      },
+      {
+         "data": ".cer"
+      },
+      {
+         "data": ".cfm"
+      },
+      {
+         "data": ".cgi"
+      },
+      {
+         "data": ".css"
+      },
+      {
+         "data": ".htm"
+      },
+      {
+         "data": ".js"
+      },
+      {
+         "data": ".jsp"
+      },
+      {
+         "data": ".part"
+      },
+      {
+         "data": ".php"
+      },
+      {
+         "data": ".py"
+      },
+      {
+         "data": ".rss"
+      },
+      {
+         "data": ".xhtml"
+      },
+      {
+         "data": ".key"
+      },
+      {
+         "data": ".odp"
+      },
+      {
+         "data": ".pps"
+      },
+      {
+         "data": ".ppt"
+      },
+      {
+         "data": ".pptx"
+      },
+      {
+         "data": ".c"
+      },
+      {
+         "data": ".class"
+      },
+      {
+         "data": ".cpp"
+      },
+      {
+         "data": ".cs"
+      },
+      {
+         "data": ".h"
+      },
+      {
+         "data": ".java"
+      },
+      {
+         "data": ".sh"
+      },
+      {
+         "data": ".swift"
+      },
+      {
+         "data": ".vb"
+      },
+      {
+         "data": ".ods"
+      },
+      {
+         "data": ".xlr"
+      },
+      {
+         "data": ".xls"
+      },
+      {
+         "data": ".xlsx"
+      },
+      {
+         "data": ".bak"
+      },
+      {
+         "data": ".cab"
+      },
+      {
+         "data": ".cfg"
+      },
+      {
+         "data": ".cpl"
+      },
+      {
+         "data": ".cur"
+      },
+      {
+         "data": ".dll"
+      },
+      {
+         "data": ".dmp"
+      },
+      {
+         "data": ".drv"
+      },
+      {
+         "data": ".icns"
+      },
+      {
+         "data": ".ico"
+      },
+      {
+         "data": ".ini"
+      },
+      {
+         "data": ".lnk"
+      },
+      {
+         "data": ".msi"
+      },
+      {
+         "data": ".sys"
+      },
+      {
+         "data": ".tmp"
+      },
+      {
+         "data": ".3g2"
+      },
+      {
+         "data": ".3gp"
+      },
+      {
+         "data": ".avi"
+      },
+      {
+         "data": ".flv"
+      },
+      {
+         "data": ".h264"
+      },
+      {
+         "data": ".m4v"
+      },
+      {
+         "data": ".mkv"
+      },
+      {
+         "data": ".mov"
+      },
+      {
+         "data": ".mp4"
+      },
+      {
+         "data": ".mpg"
+      },
+      {
+         "data": ".rm"
+      },
+      {
+         "data": ".swf"
+      },
+      {
+         "data": ".vob"
+      },
+      {
+         "data": ".wmv"
+      },
+      {
+         "data": ".doc"
+      },
+      {
+         "data": ".odt"
+      },
+      {
+         "data": ".pdf"
+      },
+      {
+         "data": ".rtf"
+      },
+      {
+         "data": ".tex"
+      },
+      {
+         "data": ".txt"
+      },
+      {
+         "data": ".wks"
+      },
+      {
+         "data": ".wpd"
+      }
+   ]
+}
