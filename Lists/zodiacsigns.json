@@ -1,0 +1,40 @@
+{
+   "Zodiac Signs": [
+      {
+         "data": "Aquarius"
+      },
+      {
+         "data": "Pisces"
+      },
+      {
+         "data": "Aries"
+      },
+      {
+         "data": "Taurus"
+      },
+      {
+         "data": "Gemini"
+      },
+      {
+         "data": "Cancer"
+      },
+      {
+         "data": "leo"
+      },
+      {
+         "data": "Virgo"
+      },
+      {
+         "data": "Libra"
+      },
+      {
+         "data": "Scorpio"
+      },
+      {
+         "data": "Sagittarius"
+      },
+      {
+         "data": "Capricorn"
+      }
+   ]
+}
