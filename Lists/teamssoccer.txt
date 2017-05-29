@@ -1,0 +1,501 @@
+Real Madrid CF
+FC Bayern München
+FC Barcelona
+Club Atlético de Madrid
+Juventus
+Paris Saint-Germain FC
+BV Borussia Dortmund
+Sevilla FC
+SL Benfica
+Chelsea FC
+Arsenal FC
+Manchester City FC
+FC Porto
+FC Schalke 04
+Manchester United FC
+Bayer 04 Leverkusen
+SSC Napoli
+FC Shakhtar Donetsk
+FC Zenit St. Petersburg
+Tottenham Hotspur FC
+Valencia CF
+FC Basel 1893
+Olympique Lyonnais
+ACF Fiorentina
+FC Dynamo Kyiv
+AFC Ajax
+Villarreal CF
+Olympiacos FC
+AS Monaco FC
+Athletic Club
+Galatasaray SK
+RSC Anderlecht
+Lazio
+Liverpool FC
+VfL Wolfsburg
+VfL Borussia 1900 Mönchengladbach
+AS Roma
+FC Dnipro Dnipropetrovsk
+Fenerbahçe SK
+AC Sparta Praha
+AC Milan
+PSV Eindhoven
+Beşiktaş JK
+KRC Genk
+FC Internazionale Milano
+FC Rubin Kazan
+Málaga CF
+Celtic FC
+FC Viktoria Plzeň
+FC Red Bull Salzburg
+Celta de Vigo
+PFC CSKA Moskva
+Club Brugge
+FC København
+SC Braga
+Leicester City
+Sporting Clube de Portugal
+AS Saint-Étienne
+KAA Gent
+FC Steaua Bucureşti
+PAOK FC
+Leicester City FC
+PFC Ludogorets Razgrad
+Levante UD
+Real Betis
+AZ Alkmaar
+FK Krasnodar
+Anzhi Makhachkala
+Newcastle United FC
+FC BATE Borisov
+FC Girondins de Bordeaux
+Everton FC
+BSC Young Boys
+SK Rapid Wien
+Legia Warszawa SA
+Olympique de Marseille
+Eintracht Frankfurt
+Torino
+Dinamo Moscow
+Real Sociedad de Fútbol
+Trabzonspor AŞ
+VfB Stuttgart
+Apoel FC
+GNK Dinamo
+Hannover 96
+FC Slovan Liberec
+FSV Mainz 05
+FK Rostov
+Maccabi Tel-Aviv FC
+Feyenoord Rotterdam
+Stoke City
+FC Augsburg
+Southampton FC
+Birmingham City
+LOSC Lille
+Swansea City
+NK Maribor
+R. Standard de Liège
+Fulham FC
+SC Freiburg
+FC Lokomotiv Moskva
+FC Metalist Kharkiv
+En Avant Guingamp
+FC Chornomorets Odesa
+Molde FK
+Udinese Calcio
+Wigan Athletic
+Sassuolo
+FC Spartak Moskva
+FC Zürich
+Qarabağ FK
+AFC Astra
+West Ham United
+Chernomorets Odesa
+Montpellier HSC
+FK Austria Wien
+KSC Lokeren
+Malmö FF
+Hertha BSC
+CFR 1907 Cluj
+Estoril Praia
+OGC Nice
+Asteras Tripolis
+FK Astana
+Hull City
+FC Midtjylland
+US Città di Palermo
+FK Partizan
+Osmanlispor
+U.C. Sampdoria
+Asteras Tripolis FC
+NK Rijeka
+Kuban Krasnodar
+Panathinaikos FC
+Vitória Guimarães
+Maritimo Funchal
+Esbjerg fB
+Zulte Waregem
+FC Sion
+Rio Ave
+Stade Rennais FC
+CF Os Belenenses
+Académica Coimbra
+Zorya Luhansk
+Paços de Ferreira
+Rosenborg BK
+Wisła Kraków SA
+FC Sochaux-Montbéliard
+FC Twente
+HNK Hajduk Split
+FC Arouca
+Nacional Funchal
+Aalborg BK
+FC Nordsjælland
+FC Sheriff Tiraspol
+Alania Vladikavkaz
+Atromitos FC
+Sibir Novosibirsk
+FC Dinamo Minsk
+KKS Lech Poznań
+Grasshopper-Club Zürich
+Hapoel Beer-Sheva
+Bursaspor Kulübü
+Apollon FC
+Astra Giurgiu
+HJK Helsinki
+Vorskla Poltava
+Metalurg Donetsk
+IF Elfsborg
+FC Sankt Gallen
+Istanbul Basaksehir
+Mladá Boleslav
+Karpaty Lviv
+AIK Fotboll
+FC Thun
+Konyaspor
+PFC Neftchi
+FK Jablonec
+FC Oleksandriya
+Arsenal Kiev
+Charleroi
+FC Luzern
+Karabükspor
+BV Vitesse
+FK Vojvodina
+Eskisehirspor
+Brøndby IF
+FC Oţelul Galaţi
+FC Groningen
+KVC Westerlo
+Videoton FC
+AIK Stockholm
+Maccabi Haifa FC
+Hapoel Tel-Aviv FC
+AC Omonia Nicosia
+AEL Limassol
+SK Slavia Praha
+IFK Göteborg
+Hapoel Kiryat Shmona
+CS Pandurii Lignitul Tg-Jiu
+Petrolul Ploiesti
+Gabala FK
+PEC Zwolle
+sc Heerenveen
+ADO Den Haag
+Tromsø IL
+Lokomotiva Zagreb
+FK Aktobe
+FC Shakhtyor Soligorsk
+WKS Śląsk Wrocław
+Servette FC Genève
+Gaziantepspor
+ŠK Slovan Bratislava
+FK Crvena Zvezda
+Heracles Almelo
+Strømsgodset Toppfotball
+Admira Wacker
+FK Shakter Karaganda
+Helsingborgs IF
+Debreceni VSC
+AS Trenčín
+Spartak Trnava
+KF Skënderbeu
+Aberdeen FC
+Motherwell FC
+FC Utrecht
+AEK Athens FC
+PAS Giannina
+Xanthi FC
+SCR Altach
+SK Sturm Graz
+FC Pasching
+Olympiakos Volou
+RNK Split
+SV Pasching
+Odense BK
+St. Johnstone
+Go Ahead Eagles
+Gaz Metan Medias
+Ruch Chorzów SA
+FC Vaslui
+SC Dinamo 1948 Bucureşti
+SønderjyskE
+Randers FC
+AC Horsens
+AEK Larnaca
+FH Hafnarfjörður
+Wolfsberger AC
+St. Pölten
+SV Grödig
+SV Ried
+Slaven Koprivnica
+Inter Baku
+Beitar Jerusalem
+Viitorul Constanta
+ASA Tirgu Mures
+FC Rapid Bucureşti
+MŠK Žilina
+FK Žalgiris
+Dundalk
+Heart of Midlothian FC
+NK Varazdin
+The New Saints FC
+FK Ventspils
+Odd Grenland
+KR Reykjavík
+Kairat Almaty
+NK Osijek
+FC Dinamo Tbilisi
+Dila Gori
+FK Minsk
+BK Häcken
+CSMS Iasi
+FC Botosani
+AGF Aarhus
+FK Sarajevo
+Torpedo Zhodino
+Anorthosis Famagusta FC
+KR Reykjavík
+FK Vardar
+F91 Dudelange
+FC Gomel
+Zaglebie Lubin
+Piast Gliwice
+IFK Norrköping
+IF Brommapojkarna
+Gefle IF
+Kalmar FF
+Milsami Orhei
+Hapoel Ramat-Gan
+FC Bnei-Yehuda
+Kalju Nomme
+Rangers FC
+NK Željezničar
+Hibernian
+Dundee United
+Vålerenga IF
+Ermis Aradippou
+FC Beroe Stara Zagora
+Botev Plovdiv
+Aalesunds FK
+NK Olimpija Ljubljana
+Cukaricki Belgrade
+Valletta FC
+Xäzär Länkäran FK
+FK Kukësi
+Shamrock Rovers FC
+Neman Grodno
+Naftan Novopolotsk
+FC Vaduz
+Jagiellonia Bialystok
+Zawisza Bydgoszcz
+Örebro SK
+PFC Levski Sofia
+CFC Zimbru Chisinau
+Maccabi Netanya FC
+FK Jagodina
+Saint Patrick's Athletic FC
+Inverness CT
+Cracovia Kraków
+PFC CSKA Sofia
+Stjarnan FC
+Stabæk IF
+FK Haugesund
+IL Hødd
+NK Domžale
+Mura Murska Sobota
+Kapaz Ganja
+Zrinjski Mostar
+Ordabasy Shymkent
+Levadia Tallinn
+PFC Litex Lovech
+Ferencvárosi TC
+Crusaders FC
+FK Rabotnički
+Birkirkara FC
+FK Baku
+Shirak Gyumri
+Tobol Kustanai
+Cherno More Varna
+Lokomotiv Plovdiv
+FC Zimbru Chişinău
+Cliftonville FC
+FC Dacia Chişinău
+Linfield FC
+FC Koper
+Lokomotiv Sofia
+FK Ekranas
+Mladost Podgorica
+FC Irtysh Pavlodar
+Irtysh Pavlodar
+NK Široki Brijeg
+CS Fola Esch
+Differdange 03
+Slavia Sofia
+Györi ETO FC
+KF Shkëndija Tetovo
+Nova Gorica
+NK Celje
+FK Rad Belgrade
+Crusaders FC
+FK Senica
+Sligo Rovers
+FK Budućnost
+Zhetysu Taldykorgan
+Sutjeska Niksic
+AZAL PFC Baku
+FC Pyunik
+Shamrock Rovers FC
+Partizani Tirana
+FC Flora Tallinn
+Rudar Pljevlja
+Chikhura Sachkhere
+Lincoln Red Imps
+FK Jelgava
+Víkingur
+Breidablik
+MTK Hungária FC
+Diósgyöri Miskolc
+Budapest Honvéd FC
+Paksi FC
+Rudar Velenje
+Metalurg Skopje
+MFK Kosice
+Hibernians Football Club
+SJK Seinäjoki
+FC Zestafoni
+FC Santa Coloma
+Skonto FC
+Daugava Daugavpils
+Spartak Myjava
+Cork City
+FK Zeta
+RoPS Rovaniemi
+Myllykosken Pallo-47
+KuPS Kuopio
+Alashkert FC
+B36 Tórshavn
+USV Eschen-Mauren
+HB Tórshavn
+Kecskeméti TE
+IBV Vestmannaeyjar
+FC Tiraspol
+Derry City FC
+KF Laçi
+FC Honka Espoo
+FC Inter Turku
+Iskra-Stal Ribnita
+Ulisses Yerevan
+FK Liepaja
+Jeunesse d'Esch
+Thór Akureyri
+Zaria Balti
+Saxan Gagauz Yeri
+Veris Chisinau
+FC Inter Turku
+Teuta Durrës
+Celik Niksic
+KS Flamurtari Vlorë
+IFK Mariehamn
+VPS Vaasa
+JJK Jyväskylä
+Gagra Tbilisi
+Spartaks Jurmala
+FK Liepājas Metalurgs
+EB/Streymur
+Valur Reykjavik
+Vikingur Reykjavik
+Fram Reykjavik
+Renova Dzepciste
+FK Turnovo
+Atlantas Klaipeda
+FK Sūduva
+FK Mogren
+Uni College Dublin
+Kalev Sillamäe
+KF Tirana
+FC Lahti
+TPS Turku
+FC Banants
+Gandzasar Kapan
+Torpedo Kutaisi
+Olimpi Rustavi
+KF Vllaznia
+FC Lusitanos
+Glenavon
+FK Trakai
+SP Tre Penne
+La Fiorita
+Drogheda United
+Bohemians Dublin
+Radnik Bijeljina
+Sloboda Tuzla
+Trans Narva
+Olimpic Sarajevo
+FK Borac Banja Luka
+Samtredia
+Bala Town
+Dinamo Batumi
+Spartak Tskhinvali
+FC Mika
+Sioni Bolnisi
+Airbus UK Broughton
+Europa FC
+Daugava Riga
+NSÍ Runavík
+FK Tauras
+Glentoran FC
+Portadown
+Sileks Kratovo
+Teteks Tetovo
+Kruoja Pakruojis
+Infonet Tallinn
+Balzan FC
+Bokelj Kotor
+Santos Tartu
+Sliema Wanderers
+Lovcen Cetinje
+Connah's Quay
+Newtown
+Bangor City FC
+Prestatyn Town
+UN Käerjeng
+UE Santa Coloma
+Progrès Niederkorn
+CS Grevenmacher
+IF Fuglafjørdur
+Banga Gargzdai
+FK Siauliai
+Folgore
+Floriana
+Llandudno FC
+Aberystwyth Town
+Cefn Druids
+Llanelli AFC
+Neath FC
+Libertas
+UE Sant Julià
+Juvenes Dogana
+College Europa
+SP Tre Fiori

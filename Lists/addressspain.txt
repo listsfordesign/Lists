@@ -1,0 +1,500 @@
+Calle Pedraza, 61, 2° F, 12819, Espinosa de Arriba
+Avenida Lozano, 833, 7° C, 50526, Vall Serna
+Paseo Archuleta, 92, 6° D, 84874, Os Molina
+Ronda Lugo, 5, 13° E, 31863, Los Riojas del Barco
+Praza Nicolas, 7, 3° A, 04896, L' Arroyo de Ulla
+Ronda Tórrez, 578, 8° C, 45041, Villa Arias del Barco
+Camiño Villalba, 119, 8° A, 59292, Porras del Vallès
+Plaça Jose, 3, 99° D, 91542, Os Sola del Barco
+Travessera Gutiérrez, 844, 27° A, 19223, Cortés Alta
+Camiño Ona, 637, 3° F, 28750, Badillo de Ulla
+Plaça Rayan, 13, 1° E, 50911, Olivares del Pozo
+Travesia Ane, 024, 6°, 60051, O Arreola
+Paseo Julia, 146, 27° D, 34459, Villa Requena
+Avenida Sánchez, 3, 1° E, 51582, Mateo del Vallès
+Ronda Sisneros, 8, Bajos, 89707, Téllez de la Sierra
+Avinguda Gastélum, 05, 06° C, 59293, O Sedillo Alta
+Praza Jose Manuel, 514, 7° A, 36967, Mireles de Ulla
+Camino Ibarra, 75, 92° A, 97601, Guerra Alta
+Plaça Mireles, 6, 6° B, 53525, Los Hidalgo
+Travessera Valadez, 30, 0° D, 67455, Villa Vera Alta
+Travesia Ona, 38, 3° B, 43769, As Alcaraz de las Torres
+Passeig Quesada, 7, 15° E, 98333, Los Cabrera
+Passeig Candela, 38, 6° D, 34728, A Villa
+Travesia Pol, 53, 1° F, 60474, San Martínez de las Torres
+Paseo Helena, 749, Bajos, 47585, Los Font
+Travesia Enrique, 5, 43° A, 82485, Villa Fuentes del Barco
+Plaza Martin, 144, 5° A, 78104, Vall Cabello
+Calle Jon, 1, Ático 7°, 26116, Juan de Ulla
+Travessera Eric, 896, 59° 8°, 61008, Sarabia Alta
+Avinguda Antonio, 95, 44° A, 22050, Rodríguez de Arriba
+Carrer Quiñónez, 4, 11° D, 16582, Os Vanegas Medio
+Passeig Rodrigo, 350, 49° B, 91517, Llorente del Vallès
+Travessera Lozano, 01, 16° D, 22414, La Trejo del Penedès
+Passeig Ortega, 789, 7° F, 31143, Las Rubio de Ulla
+Praza Alejandro, 04, 57° B, 71128, Los Verdugo
+Camino Chavarría, 404, 6° 1°, 42849, El Banda
+Ronda Cuevas, 1, 6° F, 93905, A Cuesta de Ulla
+Travesia Alemán, 0, 46° 8°, 57745, O Macías
+Ronda Chapa, 8, 2° A, 44013, As Peña de Arriba
+Travesia Alma, 01, 9° A, 07734, Saucedo Medio
+Avinguda Salcido, 6, 56° F, 16392, Mata de Ulla
+Ronda Carla, 6, 44° C, 91190, Vall Jaramillo de San Pedro
+Rúa Estrada, 48, 0°, 09237, Solorzano del Puerto
+Plaça Gastélum, 79, 4° D, 92995, Los Bonilla
+Camino Aranda, 311, 1° B, 66518, El Ozuna
+Ruela Alba, 8, Bajo 3°, 07136, Zepeda del Puerto
+Avinguda Carrero, 9, Bajos, 46250, Angulo del Barco
+Ruela Marti, 79, Ático 5°, 40523, L' Mata Medio
+Praza Miguel Angel, 5, 6° 1°, 36976, Aguirre de las Torres
+Ronda Armas, 270, Entre suelo 5°, 34861, Los Zúñiga
+Rúa Soriano, 491, 87° E, 24621, Báez del Vallès
+Carrer Macías, 823, 0° F, 67058, Valladares Baja
+Calle Ferrer, 7, 21° E, 33676, Vall Duran
+Travessera Helena, 38, 55° C, 93274, Parra de Arriba
+Praza Niño, 4, 3°, 35248, A Vela
+Camino Adrian, 474, 1° F, 83333, Los Cotto
+Passeig Francisco Javier, 44, 14° F, 40353, Las Ureña
+Praza Hernando, 9, 9° B, 05927, O Cuenca
+Passeig Montemayor, 70, 2° F, 59132, Ríos del Pozo
+Plaça Salcido, 49, 43° E, 98793, Vall Godínez
+Travesia Delagarza, 79, 80° F, 13861, Barraza de las Torres
+Avinguda Robles, 22, Bajos, 62697, As Chacón
+Camino Huerta, 085, 76° F, 60093, San Negrete de Ulla
+Rúa Candelaria, 87, 6° A, 80771, El Chávez
+Travesia Espinosa, 5, 9°, 32813, La Hernádez de Ulla
+Ronda Aitana, 90, 4° F, 19936, Pelayo de Lemos
+Avinguda Salma, 3, 1° E, 23626, Heredia del Penedès
+Plaça Carlota, 5, Entre suelo 8°, 29513, Villa Rueda de las Torres
+Calle Alejandra, 180, 27° D, 06223, Villa Garrido
+Plaça Muñiz, 89, 79° B, 24421, Cabrera del Bages
+Avinguda Ignacio, 9, 08° F, 42921, Colón de Ulla
+Travesia Granado, 0, 1° 4°, 54535, O Garibay de las Torres
+Calle Montaño, 13, 44° B, 01902, Los Saucedo
+Travesia Pau, 652, Entre suelo 2°, 42613, As Cuellar
+Camiño Leyva, 4, Bajos, 06205, La Pascual
+Camino Naranjo, 48, 44° D, 51794, Calvo Medio
+Plaza Meraz, 459, 8° D, 01564, Las Olvera de Lemos
+Travessera Cesar, 2, 7° D, 52522, Valles del Barco
+Rúa Vera, 62, 17° B, 28322, Marroquín del Penedès
+Ronda Ybarra, 371, Entre suelo 6°, 45164, O Saavedra
+Rúa Abrego, 215, 0° C, 50737, Vall Delagarza del Barco
+Calle Terán, 8, 8° E, 12967, San Álvarez
+Travessera Garay, 47, 51° D, 54750, Centeno Alta
+Calle Hugo, 4, Bajos, 77585, Serna Alta
+Rúa Asier, 858, 0° B, 10912, O Caro
+Rúa Jorge, 9, 2° A, 57486, As Armas
+Plaça Gerard, 2, 4° B, 19094, Alejandro Medio
+Avenida Candela, 7, 9° 1°, 16381, Las Venegas de las Torres
+Plaza Ander, 408, 0° E, 17457, A Arreola
+Ronda Sandra, 3, Bajo 3°, 46449, San Meza
+Ronda Jaimes, 490, 4°, 85047, Requena de la Sierra
+Rúa Africa, 2, Bajo 6°, 20034, Vall Saavedra
+Ruela Marco, 787, 52° F, 27896, Delgadillo del Bages
+Praza Serra, 2, 0° 7°, 38337, Garrido del Pozo
+Plaça Cobo, 64, 32° C, 69813, El Gómez de Arriba
+Carrer Rodarte, 4, Bajo 6°, 95640, El Mena
+Camino Nieves, 834, 37° F, 77050, Ibarra de San Pedro
+Ronda Ballesteros, 95, Bajos, 07073, Miranda del Bages
+Paseo Marcos, 2, 39° A, 26228, Las Olmos Baja
+Plaza Gael, 5, 84° E, 07655, O Mena
+Travessera Flórez, 9, 27° D, 92452, Montaño del Vallès
+Passeig Casares, 6, Bajos, 77303, Ayala del Mirador
+Travessera Ramón, 42, Bajos, 89645, El Lemus
+Camino Manuela, 942, Ático 8°, 20374, Las Duarte
+Plaça Navarrete, 7, 34° D, 35775, San Corrales de las Torres
+Plaça Marcos, 767, 03° D, 72435, A Carvajal de Ulla
+Passeig Correa, 54, Entre suelo 9°, 33727, L' Tamez
+Ruela Cano, 7, 3° C, 68082, Os Zaragoza Medio
+Ruela Tórrez, 295, 1° 0°, 47729, García Alta
+Avenida Cantú, 6, 56° B, 54653, Villalba del Bages
+Avenida Cesar, 187, 23° C, 76443, Ornelas de San Pedro
+Passeig Dario, 168, 3° A, 59317, Los Perea Medio
+Ronda Jose Manuel, 40, 03° F, 82221, L' Gonzales de San Pedro
+Plaça Pascual, 96, 0° B, 67108, Villa Holguín Alta
+Camiño Antonio, 5, Bajos, 57778, Villa Regalado
+Avinguda Gálvez, 317, 4° B, 13636, Las Carballo Alta
+Plaza Beltrán, 4, Bajos, 16871, Plaza del Vallès
+Passeig Esteban, 428, 54° E, 12119, Villa Marroquín Alta
+Avenida Pol, 311, Ático 9°, 17494, O Baeza del Puerto
+Camino Mireia, 085, 0° 9°, 67583, San Almaraz de San Pedro
+Travessera Blanca, 226, 1° B, 15939, O Esquivel de la Sierra
+Plaza Miguel Angel, 13, 4° D, 94397, Lara del Bages
+Calle Santiago, 09, 49° F, 15393, Os Aguirre de las Torres
+Plaça Ros, 01, Entre suelo 1°, 26954, La Mata Alta
+Camiño Aguayo, 297, 8°, 43356, As Luis del Vallès
+Plaza Jorge, 7, 9° C, 83747, San De la fuente del Mirador
+Travesia Aaron, 3, 0° F, 03751, Lucio de la Sierra
+Paseo Guillermo, 62, 8° E, 75644, Los Miramontes de las Torres
+Plaça Lucia, 083, 89° D, 01675, O Pascual del Pozo
+Ruela Vigil, 5, 1° A, 24699, Saldivar de las Torres
+Plaza Vega, 25, 3° B, 12587, Las Serra del Pozo
+Ruela Hugo, 4, Entre suelo 3°, 51403, Treviño de Arriba
+Carrer Mateos, 1, 7° E, 20215, Vall Granado
+Passeig Manuel, 78, 91° D, 01485, Villalpando del Puerto
+Camiño Almanza, 86, 34° E, 94758, La Godínez
+Camino Valadez, 0, 8°, 30635, O Delapaz
+Rúa Terán, 868, 66° 1°, 65423, El Tomas Medio
+Camiño Terrazas, 783, 9° E, 33716, L' Guerrero del Barco
+Passeig Delagarza, 94, 62° F, 16001, Villalobos del Vallès
+Camino Daniel, 5, 1° C, 16921, La Ponce de Arriba
+Travessera Rodríguez, 68, 25° A, 61915, A Luevano
+Travessera Andreu, 3, 4° 4°, 56118, La Gallardo Medio
+Travessera Jaime, 681, Ático 9°, 89380, L' Villalba del Puerto
+Plaça Yago, 2, 84° E, 44998, A Dueñas
+Avinguda Rodrigo, 82, 8° A, 64288, Las Partida del Vallès
+Paseo Cisneros, 3, 34° E, 47151, Crespo del Vallès
+Paseo Ríos, 395, Ático 5°, 39033, A Valles
+Calle Gabriela, 9, 3°, 71165, Olivo de San Pedro
+Avinguda Gonzalo, 2, Bajo 0°, 60962, Arevalo del Puerto
+Ronda Vega, 397, Bajos, 67558, As Pedraza Alta
+Camiño Mejía, 2, 2° 6°, 89527, L' Aguado
+Camino Victor, 0, 9° E, 21657, Parra Baja
+Avinguda Africa, 324, 1° 3°, 00520, Los Cantú Medio
+Carrer Aleix, 4, 37° E, 33287, Los Iglesias del Mirador
+Ruela Gaitán, 9, 49° 4°, 81937, La Reynoso Baja
+Camiño Márquez, 2, 2° E, 33308, L' Cervántez del Mirador
+Travessera Julia, 4, Bajos, 82824, Roig Alta
+Passeig Cardenas, 5, 7° 6°, 21850, Llorente del Barco
+Rúa Pelayo, 286, 27° A, 77434, Vall Segura
+Paseo Delatorre, 966, Bajo 0°, 85979, De la torre del Bages
+Avinguda Loera, 352, Ático 5°, 05031, O Villalpando de Lemos
+Paseo Hugo, 213, Bajos, 89564, San Vidal del Barco
+Rúa Madrid, 6, 1°, 02365, A Carrera
+Travessera Banda, 91, 0° 8°, 79946, San Benavídez de la Sierra
+Plaza Erika, 74, 0°, 37014, L' Cabán del Vallès
+Travessera Nora, 58, Entre suelo 0°, 36288, El Carbonell del Pozo
+Travessera Delafuente, 6, 0° B, 58221, Los Gallardo
+Ruela Paola, 059, 25° 5°, 12622, A Vázquez
+Ruela Rodarte, 34, 0° C, 89463, Os Cisneros
+Camino Olivo, 76, 07° D, 06967, Las Baeza
+Passeig Oriol, 039, 6° E, 28715, Los Castellano de Arriba
+Camiño Lidia, 0, 8° A, 55646, O Briseño del Barco
+Camino Razo, 64, 76° C, 97453, As Vila
+Passeig Arteaga, 97, Entre suelo 8°, 31746, Las Sancho
+Avinguda Roybal, 81, Bajo 4°, 99745, L' Gamez
+Praza Córdoba, 7, 3° 0°, 93291, L' Balderas Medio
+Travesia Niño, 01, 31° D, 94990, Muñiz del Vallès
+Ronda Adorno, 2, 2° F, 55606, Alicea del Bages
+Passeig Cuellar, 2, 2° D, 39423, Los Piña
+Camino Abrego, 218, 9° D, 06493, El Candelaria del Mirador
+Carrer Asier, 55, Ático 2°, 41208, Ceja del Pozo
+Ronda Alberto, 2, 82° 6°, 01746, El Marroquín del Mirador
+Avenida Ávalos, 22, Entre suelo 2°, 55573, O Ibarra
+Paseo Hernádez, 227, 3° A, 51186, A Reséndez
+Ronda Nayara, 535, 87° D, 15827, La Serrano de San Pedro
+Paseo Andrea, 04, 4° D, 67973, Villa Limón del Pozo
+Avenida Amaya, 065, 26° D, 49048, Esteve del Bages
+Plaza Andrea, 0, 47° E, 16422, Correa Alta
+Travessera Tijerina, 287, Bajos, 62029, La Alicea del Vallès
+Paseo Coronado, 3, Ático 4°, 50915, O Muñiz de Lemos
+Ronda Pastor, 385, Ático 4°, 01237, El Valdez de la Sierra
+Calle Miguel Angel, 54, 5° C, 40393, Vall Lozano de Ulla
+Calle Saiz, 08, 08° 0°, 27970, A Vélez de Lemos
+Avenida Olivera, 79, 5° C, 70071, Vall Izquierdo del Puerto
+Ronda Bétancourt, 2, 0° C, 04009, Las Nieves
+Ruela Guillem, 4, 5° F, 44340, Trujillo del Bages
+Travessera Rocio, 545, 1° C, 69837, Vall Olivas
+Passeig Nuria, 9, Ático 8°, 82926, Villa Ceja del Barco
+Plaza Abril, 8, 78° 8°, 18913, O Zepeda
+Avinguda Vaca, 8, Ático 6°, 97979, Las Candelaria
+Avinguda Paola, 37, 16° F, 56503, O Huerta
+Passeig Gamez, 167, 9° F, 90311, A Orellana
+Ruela Pedro, 3, 42° F, 21718, Os Villanueva
+Rúa Polanco, 7, 93° B, 12962, Ballesteros del Puerto
+Ronda Lucia, 92, 6° F, 28439, Los Villanueva
+Travesia Hernádez, 4, 67° C, 15489, O Manzanares del Barco
+Rúa Francisco, 49, 40° C, 33849, As Benavídez del Barco
+Travessera Luque, 144, Bajo 5°, 46732, San Trejo de Ulla
+Praza Sauceda, 2, 15° 4°, 89837, Olivo Baja
+Calle Mora, 7, 6° C, 12558, Los Orosco Baja
+Rúa Carlos, 497, 1° D, 95167, Saiz del Bages
+Camiño Biel, 5, Ático 9°, 01105, L' Franco
+Camino Bruno, 241, 8°, 87609, O Fernández de Arriba
+Calle Ander, 76, 21° 4°, 11416, San Armijo de la Sierra
+Travessera Barreto, 554, 0° D, 14135, As Sánchez
+Travesia Yeray, 422, 0° E, 16183, Rivas Baja
+Travesia Garibay, 38, 9° 8°, 08284, O Rincón
+Praza Emma, 0, Bajo 4°, 63471, Borrego del Vallès
+Travesia Carballo, 460, 04° E, 49679, Pichardo del Vallès
+Camiño Aya, 0, 4°, 61225, Orozco del Mirador
+Plaza Isaac, 888, Ático 3°, 53389, Nevárez del Puerto
+Paseo Angel, 938, Bajo 4°, 09939, O Lorente del Mirador
+Carrer Helena, 8, 06° E, 11933, A Rosas
+Calle Jose Antonio, 2, 35° 7°, 84474, Barrios del Mirador
+Plaza Castro, 508, Ático 2°, 22092, Madrigal del Penedès
+Passeig Adrian, 4, 10° D, 08888, San Haro de la Sierra
+Travesia Enríquez, 37, 48° C, 35616, L' Orosco
+Passeig Blanco, 773, 7° 4°, 91492, Villa Páez
+Plaza Iria, 4, 26° E, 29869, San Partida de Ulla
+Avenida Lovato, 25, Bajos, 37399, Gamez de las Torres
+Camiño Carlos, 08, Ático 3°, 60563, Los Bustos
+Plaza Pol, 328, 9° B, 80812, Ceballos de Lemos
+Camino Aparicio, 3, 28° E, 19669, Crespo del Bages
+Passeig Limón, 7, 5° D, 25790, Los Brito del Bages
+Avinguda Francisco, 03, 94° C, 65060, Vila del Puerto
+Passeig Emma, 4, Bajos, 45934, La Sotelo de Ulla
+Plaça Burgos, 04, 7° C, 30261, Os Mayorga de Lemos
+Ronda Rosales, 93, Bajos, 52110, Os Ojeda Alta
+Travessera Andres, 608, 42° A, 57115, L' Villegas
+Avinguda Natalia, 36, Bajo 2°, 52522, O Delapaz
+Carrer Beltrán, 714, Ático 8°, 57751, San Toledo
+Ruela Nahia, 3, Bajo 9°, 73162, Pardo del Mirador
+Avinguda Helena, 877, 7° D, 94808, Carbonell del Vallès
+Travessera Nil, 46, 9° C, 98448, El Aguado de Ulla
+Ronda Marta, 3, 57° D, 58411, Las Romo de Ulla
+Praza Eduardo, 388, 9° F, 27506, Domínguez del Barco
+Camiño Delvalle, 988, Ático 1°, 75280, A de Jesús
+Calle Manuela, 211, 56° E, 16996, Vall Gaytán Baja
+Praza Frías, 529, 4° F, 46128, Los Nevárez de la Sierra
+Carrer Méndez, 359, 50° F, 92253, Casas del Bages
+Ruela Feliciano, 13, 95° F, 03045, L' Guzmán Alta
+Ruela Andrea, 09, Entre suelo 1°, 73320, O Sauceda
+Travesia Requena, 065, 5° B, 61023, González del Penedès
+Paseo Valadez, 314, 0° E, 96398, Lugo de las Torres
+Avenida Soria, 890, Ático 8°, 38570, Os Bustos
+Plaça Julia, 2, 4° D, 47516, Bustamante del Bages
+Plaça Polanco, 3, 8° A, 86509, As Escobedo de Ulla
+Paseo Joan, 2, 3° E, 08127, Los Benítez del Vallès
+Avenida Armendáriz, 03, 19° F, 37332, Benavídez del Barco
+Paseo Pedro, 729, 8° F, 36827, Villa Soler
+Travesia Gaitán, 251, 29° C, 15829, Vall Sanabria del Penedès
+Travesia Arreola, 670, 46° 9°, 97392, El Longoria
+Rúa Riojas, 3, 2° B, 81120, San Rodríquez del Penedès
+Carrer Guillermo, 0, Bajo 8°, 68198, Salas de Lemos
+Camiño Tejeda, 38, 27° C, 88798, Villa Marco del Bages
+Calle Natalia, 5, 5° E, 22388, Os Vidal del Mirador
+Paseo Fierro, 0, 74° D, 90414, Os Domingo
+Carrer Portillo, 49, 9°, 84359, A Arellano
+Calle Marrero, 1, Ático 6°, 49367, Mojica de las Torres
+Rúa Luis, 6, 9° 3°, 04917, Villa Coronado de Lemos
+Rúa Rodríquez, 346, 79° 2°, 00621, Las Vargas
+Camiño Victoria, 88, 88° F, 45570, As Mares
+Plaça Teresa, 41, 4° E, 41761, San Navarro
+Travessera Ines, 01, 75° B, 41801, Delgado del Vallès
+Paseo Ainhoa, 859, 31° F, 24605, Las Castellano
+Rúa Costa, 99, 1° B, 95102, Vall Melgar de Lemos
+Rúa Ivan, 730, Entre suelo 5°, 78787, San Zavala
+Plaça Sergio, 1, 50° A, 03864, Sisneros del Pozo
+Rúa Cotto, 142, 17° D, 11037, A Flórez
+Avinguda Helena, 24, 54° A, 46559, Acuña del Pozo
+Avenida Raquel, 06, Entre suelo 6°, 88585, Villa Villar
+Plaça Briones, 0, 43° E, 86302, Ponce Medio
+Carrer Orta, 2, 01° F, 42936, L' Casas del Bages
+Passeig Pau, 61, 8° A, 83027, As Reina del Vallès
+Camino Unai, 215, 29° F, 85805, L' Llamas del Puerto
+Avenida Victoria, 24, 62° D, 30742, O Ornelas
+Plaça Ontiveros, 601, 0° F, 22520, As Hurtado de San Pedro
+Ronda Matías, 8, 5° A, 50177, L' Calderón Medio
+Travesia Cabello, 070, Bajos, 68550, Os Rodríguez
+Calle Alma, 41, 8° B, 23926, Os Perales
+Ronda Salcedo, 10, 7°, 01815, Villa Sarabia del Vallès
+Camiño Guillem, 5, Ático 9°, 91021, Irizarry del Mirador
+Avinguda Lomeli, 05, 5° C, 03555, Blanco Medio
+Ruela Jimena, 5, 94° F, 29332, O Pacheco
+Carrer Velasco, 495, 3° 7°, 17643, Torres del Barco
+Rúa Mara, 6, 55° D, 64104, Sancho del Barco
+Avinguda Alemán, 398, Ático 8°, 37752, Antón de Arriba
+Paseo Salma, 6, Bajos, 02940, San Vidal
+Plaza Ona, 6, Bajo 1°, 79088, Villa Álvarez
+Praza Rayan, 113, 30° E, 78133, Bermúdez Baja
+Travessera Adria, 9, 37° F, 78951, Águilar del Puerto
+Camiño Berta, 2, 5° B, 97906, Páez Alta
+Travessera Carrera, 6, 0° E, 68313, Burgos del Puerto
+Ruela Collazo, 485, 0° 6°, 00273, L' Soler de San Pedro
+Travessera Santana, 285, 68° 6°, 89700, Los Plaza
+Ronda Ona, 999, Bajos, 80395, O Montoya
+Ronda Miriam, 22, 3° E, 19624, As Rosales Baja
+Passeig Alvarado, 76, Bajos, 97122, A Galarza
+Travessera Raul, 67, 73° A, 99750, Vigil Baja
+Calle Grijalva, 566, 52° C, 25227, Corrales de Arriba
+Praza Zayas, 4, 91° B, 77771, As Valdés de Lemos
+Ruela Domenech, 5, Entre suelo 4°, 61005, L' Suárez de la Sierra
+Travesia Juan, 221, 04° C, 70833, O Gamez de la Sierra
+Plaza Véliz, 67, 2° A, 84257, La Román de la Sierra
+Calle Laureano, 932, 20° C, 77135, Martos Baja
+Calle Ceja, 394, 8°, 37302, El Figueroa
+Paseo Zamora, 8, 17° C, 79057, Cuellar Medio
+Calle Juan Jose, 968, 97° F, 77336, Las Zarate del Barco
+Plaça Samuel, 36, 61° F, 65281, Los Muñoz
+Travessera Marco, 131, 9° E, 96349, Los Valdez del Pozo
+Travesia Quiñónez, 82, Bajos, 19866, A Armas
+Travesia Ane, 3, 49° 1°, 58056, Vall Granado
+Ruela Mohamed, 5, 16° C, 28693, Os Véliz
+Calle Lucas, 27, 7° C, 21554, Páez de las Torres
+Calle Olivera, 64, 3° 6°, 72347, El Rolón
+Avinguda Cobo, 70, Entre suelo 9°, 90801, A Salcido
+Avenida Aleix, 976, 0° C, 14420, A Pedroza del Puerto
+Travesia Rodríguez, 9, 61° 2°, 74753, L' Delacrúz Medio
+Camiño Pizarro, 4, 5° F, 62728, Os Pozo
+Passeig Ulibarri, 5, 31° E, 24075, Los Macias
+Plaza Aranda, 4, Bajo 2°, 53973, La Coronado del Penedès
+Avinguda Hernández, 2, 97° B, 99852, Salgado del Mirador
+Plaça Castellanos, 490, 6° 9°, 61774, Villa Zambrano del Puerto
+Travesia Espinoza, 387, 8° A, 54826, Niño del Bages
+Avenida Enrique, 8, 79° F, 77535, Villa Barrios del Mirador
+Rúa Casas, 4, 6° D, 63004, Villa Gurule del Vallès
+Rúa Cesar, 249, Entre suelo 5°, 89020, Villa Cordero
+Rúa Merino, 54, Entre suelo 2°, 03594, San Cardenas
+Carrer Cordero, 1, 6° D, 58938, Gaytán del Puerto
+Praza Juan Jose, 69, 9° D, 69319, El Ontiveros
+Plaza Griego, 1, 7° D, 76439, As Cintrón
+Plaza Ona, 70, 92° E, 86352, El Puga del Bages
+Plaza Ander, 272, 7° A, 06432, La Gurule
+Camiño Ortiz, 4, 1° C, 56372, L' Reina de Ulla
+Calle Angel, 58, 7°, 59530, L' Arreola Medio
+Camiño Simón, 6, 1° A, 45392, As Barroso
+Avinguda Aitana, 6, Bajos, 88881, Las Beltrán de Ulla
+Ronda Naranjo, 1, 2° C, 59135, Os Benito Alta
+Praza Matos, 74, 01° D, 58801, Os Noriega del Mirador
+Avenida Pau, 836, 0°, 78771, Os Olivas de la Sierra
+Rúa Córdoba, 27, 33° C, 83074, Alanis del Vallès
+Calle Lidia, 2, 89° C, 17178, San Villar
+Plaça Natalia, 44, 07° F, 69075, Almonte del Puerto
+Ruela Daniel, 170, 42° E, 51974, Vall Naranjo
+Travesia Benavídez, 2, 0° C, 61448, San Caraballo
+Calle Santiago, 1, 1° E, 51839, L' Banda del Puerto
+Plaza Gamboa, 56, 5° D, 63368, Carbonell del Mirador
+Avenida Castro, 4, 04° B, 65303, Las Arredondo de Ulla
+Avinguda Sara, 438, Bajos, 18542, Tijerina de San Pedro
+Camino Roberto, 049, Ático 4°, 82897, Os Pozo de Ulla
+Paseo Águilar, 3, Bajo 4°, 66852, Las de Jesús de Ulla
+Calle Manzano, 5, 67° D, 50029, As Andreu del Mirador
+Plaza Olivia, 8, 1° B, 13570, As Quiroz de Lemos
+Calle Leyre, 3, 2° B, 43165, Bravo del Pozo
+Carrer Antón, 6, 6° C, 74811, San Cepeda
+Praza Giménez, 3, 7° A, 85495, Os Abeyta del Bages
+Travesia Haro, 73, 5°, 06609, Perea de Arriba
+Ruela Pereira, 2, 53° A, 74449, San Adorno de San Pedro
+Avinguda Victor, 5, 1° F, 22278, A Ocasio
+Ruela Madera, 07, 5° A, 98786, Martín del Pozo
+Avenida Cardenas, 3, Entre suelo 2°, 46047, Domínquez del Pozo
+Avinguda Olivares, 07, 0° B, 54629, Pedroza Alta
+Avenida Tejeda, 921, Ático 1°, 28069, Altamirano Alta
+Plaza Madera, 600, 5° C, 97997, El Venegas del Vallès
+Ronda Lucas, 16, 20° C, 94907, Lugo Alta
+Paseo Malak, 928, 92° B, 92470, Millán del Pozo
+Travessera Lomeli, 711, Entre suelo 9°, 10558, As Cedillo
+Travessera Zelaya, 68, 48° 7°, 97945, El Avilés
+Avenida Adam, 38, 81° C, 17422, Las Escobedo Baja
+Ruela Daniel, 23, 02° C, 41277, Los Cavazos de San Pedro
+Carrer Natalia, 29, 58° 2°, 01761, Valentín del Mirador
+Praza Miriam, 249, 79° F, 57640, Lucio de San Pedro
+Plaça Villa, 4, Entre suelo 8°, 32183, Molina del Vallès
+Passeig Mohamed, 13, 2° B, 08474, Vall Peláez Medio
+Plaça Terán, 9, 8° 7°, 35576, Los Rodarte
+Praza Maria, 491, 53° B, 77042, Villa Villalpando del Bages
+Calle Arroyo, 1, 82° C, 42965, Carrillo de Ulla
+Camino Villegas, 345, Bajo 0°, 16909, O Armijo de San Pedro
+Praza Mota, 98, Ático 3°, 64152, O Merino
+Praza Adrian, 322, 3° A, 34266, Los Ortíz del Penedès
+Camiño Riera, 24, 12° F, 89417, Tello del Bages
+Camino Aleix, 49, 5° F, 52252, Zaragoza Alta
+Plaza Negrón, 4, 89° E, 99963, Vall Lucas de la Sierra
+Calle Fatima, 5, 7° 2°, 50412, De la torre de la Sierra
+Passeig Alicea, 554, 12° F, 80364, Piñeiro del Bages
+Ruela Sotelo, 2, 9° B, 84693, As Cornejo del Penedès
+Travessera Bañuelos, 983, 98° E, 02901, Hernández de Ulla
+Paseo Adam, 556, Bajo 5°, 05159, La Atencio Medio
+Passeig Carolina, 43, 81° 7°, 27801, Vall Zaragoza
+Rúa Almaraz, 029, 26° A, 72148, Los Alcaraz
+Rúa Bustamante, 78, 6°, 49254, Expósito del Bages
+Calle Villagómez, 3, 0° 0°, 32734, Los Garrido
+Camino Pol, 4, 0° 1°, 36783, Valladares de las Torres
+Camino Rivero, 268, 2° E, 97356, Villa Atencio del Bages
+Travessera Enríquez, 7, 8° A, 70978, Orta de las Torres
+Passeig Pons, 2, 78° E, 18395, Ulibarri de la Sierra
+Avinguda Sanches, 58, Entre suelo 5°, 29086, Villa Alva del Vallès
+Travessera Gabriela, 81, 72° E, 02902, Cortés de la Sierra
+Travesia Véliz, 1, 6° 0°, 45077, Briseño del Penedès
+Ronda Raul, 716, 87° A, 85788, Riera de la Sierra
+Travessera Sofia, 33, 0° C, 55011, Arredondo del Penedès
+Rúa Peña, 2, 0° D, 62570, Navas de Ulla
+Paseo Enrique, 121, 9°, 59126, O Reina
+Travesia Delao, 93, 57° A, 25258, Villa Benítez
+Plaza Victoria, 090, 3° D, 71988, La Angulo
+Passeig Gonzales, 43, 34° C, 32042, A Esquivel del Bages
+Camiño Patricia, 167, 81° D, 88658, Vall De la fuente
+Passeig Cesar, 5, Bajo 4°, 15801, Gamez de Arriba
+Carrer Escamilla, 211, Bajo 2°, 13599, Luján del Pozo
+Plaça Plaza, 375, 1° C, 54984, El Rico
+Plaza Nayara, 8, 94° 0°, 03262, Valdivia Alta
+Rúa Gastélum, 038, 0° F, 10224, Los Peralta Medio
+Ruela Ander, 20, Bajos, 69139, Villa Gallardo
+Travessera Marcos, 253, 24° B, 04306, As Guerrero de Lemos
+Avenida Ruben, 5, 1° F, 90649, Sanz del Pozo
+Camino Girón, 152, 9° 2°, 52181, El Rivero
+Camiño Nahia, 471, Bajo 8°, 00337, Villa Almanza del Penedès
+Ruela Roberto, 10, Ático 7°, 02613, O De la torre
+Plaza Mateo, 8, 7° C, 61461, Los Diez de la Sierra
+Camino Victor, 88, Entre suelo 2°, 79282, Montalvo del Penedès
+Ronda Elsa, 99, 5° 9°, 65379, Villa Alemán
+Camiño Hernandes, 2, 1° E, 21018, Os Linares
+Rúa Alvaro, 978, 22° 8°, 12722, La Villarreal
+Paseo Soria, 76, 13° B, 72065, Rolón del Vallès
+Travessera Marc, 7, 1° E, 38527, As Irizarry
+Plaza Lugo, 758, Entre suelo 1°, 45446, El Saucedo
+Travesia Baeza, 28, 66° 9°, 89558, Maldonado Baja
+Ruela Gael, 5, 2°, 84838, A García
+Carrer Cardenas, 671, 2° B, 29842, L' Hidalgo
+Plaça Saavedra, 066, 4° B, 02942, Os Velásquez Baja
+Travesia Sarabia, 56, 09° B, 46068, Vall Prado
+Passeig Olivia, 19, 2° E, 96073, Villa Puig Alta
+Praza Jose Antonio, 546, 6° A, 12057, Cabán Baja
+Ronda Armendáriz, 244, 83° E, 59892, Villa Bétancourt
+Ruela Zoe, 8, 50° A, 85616, O Pulido del Bages
+Camiño Monroy, 6, Bajo 5°, 10849, Las Delgado
+Avinguda Ivan, 4, 4° E, 18551, A Ruelas
+Ronda Ontiveros, 75, 95° D, 32461, La Ávalos de Ulla
+Travesia Domínguez, 7, 93° B, 63576, Os Gaona Medio
+Carrer Cardenas, 8, 36° E, 44675, Mateo de Ulla
+Praza Alfonso, 58, 8° B, 02758, Malave Medio
+Carrer Manuel, 61, 5° A, 64581, A Fierro
+Camiño Rodrigo, 61, 61° D, 86366, A Perales de Arriba
+Travessera Leyva, 0, Entre suelo 1°, 85188, El Serrato del Mirador
+Carrer Angela, 11, 8° E, 83597, San Sancho
+Avinguda Martí, 82, 6° F, 87306, As Gallegos de Arriba
+Ronda Marco, 92, 13° F, 89779, O Arevalo
+Avenida Laureano, 4, 8°, 52516, Pelayo de las Torres
+Ronda Santacruz, 63, 7° A, 05710, El Matías
+Rúa Luna, 988, 11° A, 89300, Mora de Arriba
+Avinguda Blanca, 24, 16° A, 30010, Villa Vergara
+Rúa Paola, 9, Ático 1°, 09962, Os Corona
+Paseo Jaime, 473, 58° F, 50952, O Marín
+Paseo Cadena, 634, 4° E, 70764, Carrillo del Vallès
+Passeig Nerea, 8, 8° B, 37088, Casado del Pozo
+Camino Ramos, 4, 2° F, 30745, Lira del Bages
+Avinguda Quiñónez, 7, 70° C, 79712, El Cavazos Medio
+Travessera Isaac, 96, 85° E, 12469, A Villaseñor Medio
+Ruela Adria, 7, Bajo 3°, 53968, O Rosado de las Torres
+Praza Llamas, 73, Ático 7°, 94822, Villarreal del Mirador
+Plaça Andres, 858, 5°, 18058, Los Preciado
+Camiño Armijo, 220, 30° A, 64915, L' Puente
+Paseo Martí, 4, 7° A, 96092, Los Cuenca
+Ruela Nora, 93, Entre suelo 8°, 49975, L' Rentería del Vallès
+Avinguda Nicolas, 2, 8°, 19085, San Vigil
+Plaza Guajardo, 7, 3° B, 38515, Villa Molina
+Passeig Marina, 803, 00° B, 62058, Pereira del Barco
+Ronda Erika, 692, 6°, 32057, Paz de Lemos
+Ruela Araña, 39, 4° 2°, 23877, Os Blázquez
+Avenida Ros, 65, 6° F, 14644, La Quintana
+Plaça Leyre, 57, 7° C, 83356, Los Ordoñez del Vallès
+Ronda Ane, 1, Ático 6°, 69493, San Salcedo
+Plaça Trujillo, 140, 7° C, 76831, Camacho del Penedès
+Praza Simón, 0, 26° 4°, 09005, La Samaniego del Mirador
+Travesia Alejandro, 5, 05° B, 96864, L' Ortiz
+Avenida Zúñiga, 0, 11° C, 80459, Maldonado Alta
+Travessera Victoria, 64, 8° A, 16313, San Nájera de la Sierra
+Praza Joan, 74, Ático 5°, 91761, O Hernando
+Ruela Palomo, 2, 03° C, 79367, Las Longoria Alta
+Travesia Domingo, 885, 4° D, 16534, Fierro Baja
+Praza Juan, 069, 30° B, 86795, Muñiz del Puerto
+Calle Sergio, 362, 48° C, 92984, A Roybal del Mirador
+Avinguda Jan, 64, 17° C, 28229, El Roybal Baja
+Plaza Juan, 58, 3° A, 93569, Villa Longoria
+Passeig Joel, 946, 05° 0°, 23942, L' Leyva
+Travesia Nieto, 364, Bajos, 76254, O Becerra Baja
+Travesia Isabel, 373, 05° A, 62291, Valencia de Arriba
+Passeig Cabrera, 7, 68° 8°, 85686, Los Candelaria
+Plaça Guardado, 24, Entre suelo 9°, 89439, As Menchaca
+Avinguda Hurtado, 98, 82° 4°, 64147, Medina Alta

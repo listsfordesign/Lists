@@ -1,0 +1,51 @@
+Artichoke
+Arugula
+Asparagus
+Basil
+Beans
+Beets
+Bok Choy
+Broccoli
+Broccoli Raab
+Brussel sprouts
+Cabbage
+Cantaloupe
+Carrots
+Cauliflower
+Celery
+Chile peppers
+Chives
+Collards
+Corn
+Cucumber
+Dill
+Eggplant
+English peas
+Escarole
+French Sorrel
+Garlic
+Kale
+Kohlrabi
+Leeks
+Lettuce
+Okra
+Onions
+Radicchio
+Parsnip
+Peppers
+Potatoes
+Pumpkins
+Radish
+Rhubarb
+Rutabagas
+Shallots
+Snap peas
+Spinach
+Summer squash
+Sweet potatoes
+Tomatillo
+Tomatoes
+Turnips
+Watermelon
+Winter squash
+Zucchini

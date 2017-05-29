@@ -1,0 +1,39 @@
+Sunny
+Mostly Sunny
+Partly Sunny
+Intermittent Clouds
+Hazy Sunshine
+Mostly Cloudy
+Cloudy
+Dreary
+Fog
+Showers
+Mostly Cloudy with Showers
+Partly Sunny with Showers
+T-Storms
+Mostly Cloudy with T-Storms
+Partly Sunny with T-Storms
+Rain
+Flurries
+Mostly Cloudy with Flurries
+Partly Sunny with Flurries
+Snow
+Mostly Cloudy with Snow
+Ice
+Sleet
+Freezing Rain
+Rain and Snow
+Hot
+Cold
+Windy
+Clear
+Mostly Clear
+Partly Cloudy
+Intermittent Clouds
+Hazy Moonlight
+Mostly Cloudy
+Partly Cloudy with Showers
+Mostly Cloudy with Showers
+Partly Cloudy with T-Storms
+Mostly Cloudy with Flurries
+Mostly Cloudy with Snow

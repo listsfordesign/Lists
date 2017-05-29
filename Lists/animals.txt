@@ -1,0 +1,188 @@
+Deer
+Goat
+Jaguar
+Panther
+Chicken
+Salamander
+Dog
+Civet
+Lemur
+Ermine
+Bear
+Lizard
+Hamster
+Guanaco
+Hippopotamus
+Capybara
+Ground hog
+Mule
+Octopus
+Bumble bee
+Lamb
+Fox
+Ram
+Sheep
+Hedgehog
+Eland
+Hog
+Kangaroo
+Dromedary
+Rooster
+Aoudad
+Mare
+Waterbuck
+Armadillo
+Dormouse
+Dingo
+Ox
+Koala
+Walrus
+Aardvark
+Bunny
+Peccary
+Parrot
+Porpoise
+Leopard
+Hyena
+Muskrat
+Prairie dog
+Doe
+Lion
+Gazelle
+Beaver
+Snowy owl
+Anteater
+Cat
+Wombat
+Jackal
+Fish
+Mole
+Mountain goat
+Baboon
+Steer
+Rabbit
+Canary
+Iguana
+Bald eagle
+Crocodile
+Colt
+Zebu
+Finch
+Woodchuck
+Gila monster
+Warthog
+Bighorn
+Panda
+Addax
+Porcupine
+Monkey
+Marmoset
+Silver fox
+Okapi
+Elk
+Basilisk
+Quagga
+Tiger
+Toad
+Wolverine
+Vicuna
+Musk deer
+Eagle owl
+Mink
+Skunk
+Oryx
+Wolf
+Burro
+Opossum
+Cheetah
+Chimpanzee
+Cow
+Dung beetle
+Cougar
+Guinea pig
+Mynah bird
+Coyote
+Bison
+Musk-ox
+Grizzly bear
+Wildcat
+Elephant
+Parakeet
+Bat
+Seal
+Pony
+Chamois
+Alpaca
+Crow
+Stallion
+Horse
+Shrew
+Otter
+Pronghorn
+Boar
+Squirrel
+Antelope
+Starfish
+Polar bear
+Mouse
+Gopher
+Newt
+Alligator
+Ocelot
+Weasel
+Budgerigar
+Puppy
+Badger
+Camel
+Highland cow
+Chinchilla
+Orangutan
+Hartebeest
+Mustang
+Zebra
+Lovebird
+Snake
+Mandrill
+Gorilla
+Chameleon
+Springbok
+Puma
+Ewe
+Buffalo
+Ferret
+Thorny devil
+Fawn
+Tapir
+Rhinoceros
+Coati
+Pig
+Impala
+Mongoose
+Kitten
+Giraffe
+Donkey
+Chipmunk
+Marten
+Frog
+Gnu
+Gemsbok
+Duckbill platypus
+Meerkat
+Reindeer
+Ape
+Turtle
+Lynx
+Moose
+Hare
+Llama
+Blue crab
+Whale
+Argali
+Dugong
+Rat
+Ibex
+Yak
+Raccoon
+Jerboa
+Bull
+Sloth

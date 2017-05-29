@@ -1,0 +1,100 @@
+College of the Holy Cross
+University of California, Davis
+United States Coast Guard Academy
+California Institute of Technology
+Washington University in Saint Louis
+Wheaton College
+University of Texas, Austin
+Boston University
+University of Pennsylvania
+Trinity College
+Northwestern University
+Williams College
+Santa Clara University
+University of Southern California
+University of California, Berkeley
+Case Western Reserve University
+University of Maryland, College Park
+Harvard University
+Southern Methodist University
+University of Rochester
+Davidson College
+University of North Carolina, Chapel Hill
+Vassar College
+Boston College
+Sewanee—University of the South
+Stanford University
+Union College
+University of California, Los Angeles
+Columbia University
+Carleton College
+Reed College
+Kenyon College
+University of Illinois, Urbana-Champaign
+Brandeis University
+Tufts University
+Rice University
+Colgate University
+Pepperdine University
+University of California, Santa Barbara
+United States Air Force Academy
+University of Washington
+Villanova University
+United States Naval Academy
+Pennsylvania State University, University Park
+Washington and Lee University
+Dartmouth College
+Wellesley College
+Oberlin College
+George Washington University
+Hamilton College
+University of Michigan, Ann Arbor
+Grinnell College
+Lehigh University
+Duke University
+United States Military Academy
+Mount Holyoke College
+University of Chicago
+Princeton University
+Wesleyan University
+Georgetown University
+University of Richmond
+Bryn Mawr College
+Lafayette College
+Brown University
+Vanderbilt University
+Scripps College
+DePauw University
+Whitman College
+Georgia Institute of Technology
+Smith College
+University of Notre Dame
+Middlebury College
+Harvey Mudd College
+Amherst College
+Barnard College
+Virginia Military Institute
+Yale University
+New York University
+Wake Forest University
+Bowdoin College
+University of Virginia
+Johns Hopkins University
+Haverford College
+College of William and Mary
+Swarthmore College
+Cooper Union
+University of Wisconsin, Madison
+Colby College
+Cornell University
+Brigham Young University
+Carnegie Mellon University
+Pomona College
+Colorado College
+University of Florida
+Indiana University, Bloomington
+Centre College
+Franklin and Marshall College
+Macalester College
+University of Georgia
+Massachusetts Institute of Technology
