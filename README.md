@@ -12,7 +12,7 @@ Hope you find [Lists.design](https://lists.design/) useful! 🙌
 We love pull requests. Here's a quick guide:
 
 1. Fork the repo.
-2. Add your new list by creating another JSON file. Make sure to respect the structure used in all the lists.
+2. Add your new list by creating another .txt file. Make sure to respect the structure used in all the lists: one item per line.
 3. Push to your fork and submit a pull request. If you're submitting an improvement to a list, make sure to explain it.
 
 ## License
