@@ -4,7 +4,7 @@ Aries
 Taurus
 Gemini
 Cancer
-leo
+Leo
 Virgo
 Libra
 Scorpio
