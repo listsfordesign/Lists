@@ -1,4 +1,4 @@
-![jun-23-2017 16-36-35](https://user-images.githubusercontent.com/29657949/27486854-36a0c496-5832-11e7-8c50-64dabce23043.gif)
+![jun-24-2017 16-29-41](https://user-images.githubusercontent.com/29657949/27509331-84b91c82-58fa-11e7-95b5-219790f7fb92.gif)
 
 ## Lists
 [Lists.design](https://lists.design/) is a gallery of real content ready to populate your mockups, built by designers who want to work more efficiently. All this data is organised by lists. Each list gathers a number of entities of the same type of content. We have purposefully made the format of lists simple : text files. With a line break separating each entity.
