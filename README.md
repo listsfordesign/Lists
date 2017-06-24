@@ -1,19 +1,80 @@
+![jun-23-2017 16-36-35](https://user-images.githubusercontent.com/29657949/27486854-36a0c496-5832-11e7-8c50-64dabce23043.gif)
+
 ## Lists
-[Lists.design](https://lists.design/) is a gallery of real data ready to be placed in your design. Kind of like an App Store for fake content. Want to design with real data ? There's a list for that.
+[Lists.design](https://lists.design/) is a gallery of real content ready to populate your mockups, built by designers who want to work more efficiently. All this data is organised by lists. Each list gathers a number of entities of the same type of content. We have purposefully made the format of lists simple : text files. With a line break separating each entity.
 
-We (the creators) want it to become an extensive library of all the types of content that designers may need to create mockups (this is where we need you, the community!). Let's all start to ##reallydesign.
+**Example: teamsnba.txt**
+```html
+Atlanta Hawks
+Boston Celtics
+Brooklyn Nets
+Charlotte Hornets
+Chicago Bulls
+Cleveland Cavaliers
+Dallas Mavericks
+Denver Nuggets
+Detroit Pistons
+Golden State Warriors
+...
+```
 
-## Suggest a list
-We’re working hard to add all the Lists and answer all the designers’ data needs. If you think one is missing, we’d love you to add a new list by contributing to this Github repo or by [creating an issue](https://github.com/jperriere/Lists/issues).
+## Contribute
+With your help, Lists will ultimately gather all the data types designers could ever need.  Join us on our adventurous journey.
 
-Hope you find [Lists.design](https://lists.design/) useful! 🙌
+###### Create a list
+- Download or fork the repository.
+- Add your new list by creating another .txt file.
+- Push to your fork and submit a pull request. Make sure to explain what's new.
 
-## Contributing
-We love pull requests. Here's a quick guide:
+###### Naming convention
+Any list can be language specific, or country specific. Our naming convention uses language and/or country codes to deal with these intricacies. Below are a few examples explaining how we name lists.
 
-1. Fork the repo.
-2. Add your new list by creating another .txt file. Make sure to respect the structure used in all the lists: one item per line.
-3. Push to your fork and submit a pull request. If you're submitting an improvement to a list, make sure to explain it.
+```html
+985
+756
+507
+964
+309
+...
+```
+**numbers100to999.txt** is language and country agnostic, no language/country code.
 
-## License
-This project is licensed under the terms of the MIT license.
+```html
+Paleo Pumpkin Bread
+Double Broccoli Quinoa
+Deep Dish Fruit Pizza
+Baked Chicken and Spinach Flautas
+Homemade Strawberry Lemonade
+...
+```
+**recipes-en.txt** is a list in english, so we use the `-en` suffix.
+
+```html
+972 Sylvan Street South Angelina, NL S0B2V9
+11907 Doyle Cape Cydneyview, MB H5B 2V2
+8832 Adah Vista South Guido, PE B2P-1J8
+52906 Danyka Freeway Port Michaelborough, NU N7L8L2
+89913 Gottlieb Forks Suite 588 Schadenport, YT A0A-0H9
+...
+```
+**address-en_CA.txt** is a list in english, and it's specific to Canada, so we use the `-en_CA` suffix.
+
+This system is pretty straightforward. Go ahead and [browse](https://github.com/listsfordesign/Lists/tree/master/Lists "browse") through the lists to get familiar with our naming convention.
+
+###### Edit a list
+Follow the same instructions as for creating a list. Make sure to explain the changes you made to the list you've edited.
+
+###### Suggest a list
+- Add an [issue](https://github.com/listsfordesign/Lists/issues "issue") and provide a few sample entities.
+- Or come [chat with us](http://lists.design/ "chat with us").
+
+###### Reporting issues
+If you've spotted a typo in a list or bad quality content, please add an [issue](https://github.com/listsfordesign/Lists/issues "issue") or come [chat with us](http://lists.design/ "chat with us"). 
+
+###### Check our Product Roadmap
+Our [product roadmap](https://trello.com/b/HZ6pfnYD/listsdesign-product-roadmap "product roadmap") is public on Trello. Check it out, vote for the lists you'd like to be added and see which suggestions got the most votes from the community.
+
+## Community
+- Join the [Facebook Group](https://www.facebook.com/groups/listsfordesign/ "Facebook Group")
+- Follow us on [Twitter](https://twitter.com/listsfordesign/ "Twitter")
+- Subscribe to the [Newsletter](http://design.us16.list-manage.com/subscribe?u=27c9fb1a29ad5f8def984a441&id=c68c791927 "Newsletter")
