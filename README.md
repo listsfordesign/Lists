@@ -80,3 +80,8 @@ Our [product roadmap](https://trello.com/b/HZ6pfnYD/listsdesign-product-roadmap 
 - Join the [Facebook Group](https://www.facebook.com/groups/listsfordesign/ "Facebook Group").
 - Follow us on [Twitter](https://twitter.com/listsfordesign/ "Twitter").
 - Subscribe to the [Newsletter](http://design.us16.list-manage.com/subscribe?u=27c9fb1a29ad5f8def984a441&id=c68c791927 "Newsletter").
+
+## Happy designer?
+Hi, we're [Julien](https://twitter.com/julienperriere) and [Antoine](https://twitter.com/wattierantoine). Lists is our side-project. We're investing our own time and money in it. If you find it useful, consider helping us with a donation. 100% of your money will go into making it even better.
+
+[Donate](https://www.paypal.me/julienperriere/5)
