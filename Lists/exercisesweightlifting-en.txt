@@ -1,0 +1,20 @@
+Squat
+Half Squat
+Front Squat
+Hack Squat
+Lunge
+Calf Raise
+Deadlift
+Bench Press
+Incline Bench Press
+Decline Bench Press
+Barbell Pullover
+Military Press
+Seated Military Press
+Bent-Over Row
+Upright Row
+Triceps Extension
+Good Morning
+Shrug
+Wrist Curl
+Wrist Extension
