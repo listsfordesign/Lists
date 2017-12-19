@@ -1,0 +1,22 @@
+Soleggiato
+Gran parte soleggiato
+Parzialmente soleggiato
+Nuvoloso
+Prevalentemente nuvoloso
+Nebbioso
+Rovesci
+Prevalentemente nuvoloso con rovesci
+Parzialmente soleggiato con rovesci
+Pioggia
+Tempesta di neve
+Neve
+Prevalentemente nuvoloso con neve
+Ghiaccio
+Nevischio
+Grandine
+Pioggia e neve
+Caldo
+Freddo
+Ventoso
+Sereno
+Prevalentemente sereno
