@@ -1,0 +1,12 @@
+Acquario
+Pesci
+Ariete
+Toro
+Gemelli
+Cancro
+Leone
+Vergine
+Bilancia
+Scorpione
+Sagittario
+Capricorno
